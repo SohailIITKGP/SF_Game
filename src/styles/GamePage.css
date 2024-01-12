@@ -134,7 +134,6 @@
 }
 
 .game-button:hover {
-    background-color: #2980b9;
     box-shadow: inset 0px 4px 15px 4px #ff00e5, 0px 0px 10px #ff00e5;
 }
 
