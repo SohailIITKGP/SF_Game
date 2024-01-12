@@ -1,0 +1,114 @@
+.event-details-card {
+	background-color: rgba(243, 244, 246, 0.5);
+	padding: 1rem 0.5rem;
+	margin-bottom: calc(var(--navbar-height) + 1rem);
+	width: 90vw;
+	max-width:60rem;
+	border-radius: 0.5rem;
+	/* margin-bottom: 1rem; */
+	font-family: poppins, sans-serif;
+	letter-spacing: 0;
+	backdrop-filter: blur(10px);
+}
+
+.sub-event-details-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 0.5rem;
+	/* gap: 1rem; */
+}
+
+.sub-event-details-image {
+	width: 7rem;
+	height: 7rem;
+	/* aspect-ratio: 1/1; */
+	border-radius: 999999px;
+	background: black;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.sub-event-details-image img {
+	width: 5rem;
+	background: cover;
+}
+
+.sub-event-details-header-content {
+	display: flex;
+	flex-direction: column;
+	/* gap: 0.3rem; */
+
+	text-align: right;
+	width: calc(100% - 8rem);
+	/* word-break: break-all; */
+}
+
+.sub-event-details-header-content h2 {
+	font-size: 1.5rem;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+
+.sub-event-details-tagline {
+	font-size: 0.8rem;
+	font-weight: 500;
+	margin-bottom: 0.5rem;
+}
+
+.sub-event-details-modal-register-button {
+	background-color: #58293f; 
+	color: white;
+	border: none;
+	padding: 0.5rem 1rem;
+	border-radius: 0.5rem;
+	box-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+	text-shadow: 0 0 2px rgba(0, 0, 0, 0.2);
+	text-transform: uppercase;
+	font-size: 1rem;
+	font-weight: 600;
+	cursor: pointer;
+	transition: transform 0.5s ease-in-out;
+}
+
+.sub-event-details-content {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	gap: 0.5rem;
+	text-align: justify;
+	padding: 1rem 0.5rem;
+	padding-bottom: 0;
+}
+
+.sub-event-details-content h2 {
+	margin-top: 0.5rem;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 1.4rem;
+	font-weight: 600;
+}
+
+.sub-event-details-writeup {
+	color: #000000aa;
+	font-size: 0.9rem;
+}
+
+.sub-event-details-rules {
+	display: flex;
+	flex-direction: column;
+	gap: 0.5rem;
+	color: #000000aa;
+	font-size: 0.9rem;
+}
+
+@media only screen and (min-width: 768px) {
+	.event-details-card {
+		padding: 3rem 2rem;
+	}
+	.sub-event-details-modal-register-button {
+		margin-left: 15rem;
+	}
+}

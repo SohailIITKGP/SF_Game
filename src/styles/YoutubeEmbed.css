@@ -1,0 +1,37 @@
+.youtube-embed-video {
+    overflow: hidden;
+    height: 30vh;
+    /* padding-bottom: 60.25%; */
+    background: transparent;
+    position: relative;
+    margin: 2rem 0.2rem;
+}
+
+.youtube-embed-video iframe {
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    border: none;
+}
+
+.youtube_embed-container {
+    background-image: url("../temp-imgs/Landing.webp");
+	height: calc(100vh - var(--navbar-height));
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+.youtube-embed-heading {
+    color: white;
+    padding: 1rem 0;
+    text-align: center;
+    font-family: gemstone;
+    font-size: 1.6rem;
+}

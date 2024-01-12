@@ -1,0 +1,182 @@
+.sidebar * {
+  transition: all 0.2s ease-in-out;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 200px;
+  height: 100vh;
+  padding: 1rem 0.5rem;
+  border-top-left-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  background: rgba(0, 0, 0, 0.527);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+  z-index: 49;
+  transition: all 0.5s ease-in-out;
+}
+.sidebar .sidebar-heading {
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  color: whitesmoke;
+}
+.sidebar .burgerContainer {
+  content: "";
+  position: absolute;
+  background-color: white;
+  left: -20px;
+  top: 3rem;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sidebar .burgerContainer .burgerMenu {
+  content: "";
+  background-color: transparent;
+  position: relative;
+  width: 25px;
+  height: 3px;
+  border-radius: 2rem;
+  transition: 0.4s all ease-in-out;
+}
+.sidebar .burgerContainer .burgerMenu::after {
+  content: "";
+  background-color: #b41c92;
+  position: absolute;
+  width: 25px;
+  height: 3px;
+  border-radius: 2rem;
+  top: 0.4rem;
+  transform: translateY(-0.4rem) rotate(45deg);
+  transition: 0.4s all ease-in-out;
+}
+.sidebar .burgerContainer .burgerMenu::before {
+  content: "";
+  background-color: #b41c92;
+  position: absolute;
+  width: 25px;
+  height: 3px;
+  border-radius: 2rem;
+  top: -0.4rem;
+  transform: translateY(0.4rem) rotate(-45deg);
+  transition: 0.4s all ease-in-out;
+}
+.sidebar .contentsContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 2rem;
+}
+.sidebar .contentsContainer a {
+  text-decoration: none;
+  width: 100%;
+  padding: 0.5rem 0.5rem;
+  margin: 0.5rem auto;
+  color: rgb(37, 37, 37);
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  border-radius: 10px;
+  background-color: white;
+  transition: all 0.2s ease-in-out;
+  position: relative;
+}
+.sidebar .contentsContainer a .acco_icon {
+  display: grid;
+  place-items: center;
+  width: 20px;
+  height: 20px;
+}
+.sidebar .contentsContainer a .acco_icon img {
+  height: 100%;
+  width: 100%;
+}
+.sidebar .contentsContainer a .acco_icon_FAQ img {
+  filter: invert(1);
+}
+.sidebar .contentsContainer a .head {
+  padding-left: 10px;
+  font-weight: 500;
+  font-size: 1rem;
+}
+.sidebar .contentsContainer a .tooltip {
+  position: absolute;
+  right: 0px;
+  top: 0;
+  transform: translate(-50%, -50%);
+  border-radius: 6px;
+  height: 35px;
+  width: 122px;
+  background: #fff;
+  line-height: 35px;
+  text-align: center;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  transition: 0s;
+  opacity: 0;
+  pointer-events: none;
+  display: none;
+  font-size: 1rem;
+}
+.sidebar .contentsContainer a:hover .tooltip {
+  animation: fadeHover 2s both;
+}
+
+.sidebar.closed {
+  width: 55px;
+}
+.sidebar.closed .sidebar-heading {
+  display: none;
+}
+.sidebar.closed .burgerContainer .burgerMenu {
+  background-color: #b41c92;
+}
+.sidebar.closed .burgerContainer .burgerMenu::before {
+  transform: translateY(0rem) rotate(0deg);
+}
+.sidebar.closed .burgerContainer .burgerMenu::after {
+  transform: translateY(0rem) rotate(0deg);
+}
+.sidebar.closed .contentsContainer {
+  padding-top: 5rem;
+}
+.sidebar.closed .contentsContainer a {
+  padding: 0.5rem;
+  width: auto;
+  border-radius: 50%;
+  justify-content: center;
+  font-size: 1.2rem;
+}
+.sidebar.closed .contentsContainer a .head {
+  display: none;
+}
+.sidebar.closed .contentsContainer a .tooltip {
+  display: block;
+}
+
+@keyframes fadeHover {
+  0% {
+    top: 0;
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+    top: 50%;
+  }
+  80% {
+    opacity: 1;
+    top: 50%;
+  }
+  100% {
+    top: 0;
+    opacity: 0;
+  }
+}/*# sourceMappingURL=Acco_Sidebar.css.map */

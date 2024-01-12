@@ -1,0 +1,49 @@
+.complaint-form-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.complaint-form-group {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 0.5rem 0;
+}
+
+.complaint-form-group label {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+}
+
+.complaint-form-group input, .complaint-form-group select {
+    font-family: var(--dashboard-modal-font);
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+    padding: 0.5rem 0.5rem;
+    font-size: 1rem;
+    font-weight: 400;
+    background-color: rgb(0, 0, 0, 0.5);
+    color: #ffffff;
+    outline: none;
+}
+
+.complaint-submit-button {
+    padding: 0.5rem 1rem;
+    height: 3rem;
+    border: none;
+    border-radius: 0.4rem;
+    font-family: var(--dashboard-modal-font);
+    background-color: #823d05;
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-weight: 500;
+    cursor: pointer;
+    outline: none;
+}

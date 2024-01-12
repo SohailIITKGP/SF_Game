@@ -1,0 +1,5 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+google login client id : 605077538314-u2jo2kulrorjer7s00s54add66osnn3m.apps.googleusercontent.com

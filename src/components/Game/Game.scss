@@ -1,0 +1,268 @@
+
+$color-dark: #ffffff;
+
+.game-outermost {
+	margin: 0;
+	overflow: hidden;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	font-family: gemstone;
+}
+
+.first_display_game_page {
+	z-index: 1;
+	position: absolute;
+	height: calc(100vh - var(--navbar-height));
+	width: 100vw;
+	display: grid;
+	place-items: center;
+	top: 0;
+	left: 0;
+	grid-template-rows: 1fr 1fr;
+	background: url("./Images/game_background.png") no-repeat center;
+	background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.play-game {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.play-game button {
+	background-image: linear-gradient(to right top, #d16ba5, #ba83ca, #79b3f4, #41dfff);
+	box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+	border: none;
+	height: 40px;
+	width: 100px;
+	border-radius: 7px;
+
+}
+
+.play-game button:hover {
+	background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+
+#bestscore {
+	color: white;
+}
+
+#container {
+	width: 100%;
+	height: 100%;
+
+	#score {
+		position: absolute;
+		top: 40px;
+		width: 100%;
+		text-align: center;
+		font-size: 10vh;
+		transition: transform 0.5s ease;
+		// color: $color-dark;
+		color: aliceblue;
+		transform: translatey(-200px) scale(1);
+		opacity: 0;
+	}
+
+	#game {
+		position: absolute;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		// background: url("https://t3.ftcdn.net/jpg/05/32/77/86/360_F_532778635_NFhOrmSjE4ovOED1xqoCdaFpmliXJSUD.jpg") no-repeat center;
+		// background: url("https://img.freepik.com/free-vector/realistic-three-dimensional-arabic-ornamental-background_52683-59086.jpg?w=996&t=st=1671794538~exp=1671795138~hmac=050103b303b857569bb8c238524351898a7ee5238dfba8597dd2820903ed0de5") no-repeat center;
+		// background: url("https://t4.ftcdn.net/jpg/05/48/67/67/240_F_548676772_WoNJ2VSYzYvzKGJ3urnkM31XkXUP0tXU.jpg") no-repeat center;
+		// background: url("https://t4.ftcdn.net/jpg/01/58/35/23/240_F_158352351_Akt1guZNphQVp7Sa4UlN6AKZC20USeJS.jpg") no-repeat center;
+		// background: url("https://as2.ftcdn.net/v2/jpg/00/43/38/29/1000_F_43382949_UrRvPjOukFY7O8OM46pqo9EvxuSLN08i.jpg") no-repeat center;
+		// background: url("https://st.depositphotos.com/1012094/2776/v/600/depositphotos_27762193-stock-illustration-ramadan-festival-design.jpg") no-repeat center;
+		// background: url("https://t4.ftcdn.net/jpg/02/25/50/73/360_F_225507359_L9H70k0Ir4hT0hewsxW0hnpBAhLBTQDe.jpg") no-repeat center;
+		background: url("./Images/game_background.png") no-repeat center;
+
+		background-size: 100% 100%;
+	}
+
+	.game-over {
+		position: absolute;
+		top: 15vh;
+		left: 0;
+		width: 100%;
+		height: 85%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+
+		* {
+			transition: opacity 0.5s ease, transform 0.5s ease;
+			opacity: 0;
+			transform: translatey(-50px);
+			color: #e3d7d7;
+		}
+
+		h2 {
+			margin: 0;
+			padding: 0;
+			font-size: 40px;
+		}
+
+	}
+
+	.game-ready {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: space-around;
+
+		#start-button {
+			transition: opacity 0.5s ease, transform 0.5s ease;
+			opacity: 0;
+			transform: translatey(-50px);
+
+			border: 3px solid $color-dark;
+			padding: 10px 20px;
+			background-color: transparent;
+			color: $color-dark;
+			font-size: 30px;
+		}
+	}
+
+	#instructions {
+		position: absolute;
+		width: 100%;
+		top: 20vh;
+		left: 0;
+		text-align: center;
+		transition: opacity 0.5s ease, transform 0.5s ease;
+
+		opacity: 0;
+		color:rgba(255, 255, 255, 0.756);
+
+		&.hide {
+			opacity: 0 !important;
+		}
+	}
+
+	&.playing,
+	&.resetting {
+		#score {
+			transform: translatey(0px) scale(1);
+			opacity: 1;
+		}
+	}
+
+	&.playing {
+		#instructions {
+			opacity: 1;
+		}
+	}
+
+	&.ready {
+
+
+		.game-ready {
+			#start-button {
+				opacity: 1;
+				transform: translatey(0);
+			}
+		}
+	}
+
+	&.ended {
+		#score {
+			transform: translatey(6vh) scale(1.5);
+			opacity: 1;
+		}
+
+		.game-over {
+			* {
+				opacity: 1;
+				transform: translatey(0);
+			}
+
+			p {
+				transition-delay: 0.3s;
+				margin: 10px 0;
+			}
+
+			h2 {
+				margin: 10px 0;
+			}
+		}
+	}
+}
+
+@media (max-width: 700px) {
+	.index {
+		display: none;
+
+	}
+
+	.leaderboard {
+		width: 90vw !important;
+		font-size: 14px;
+	}
+}
+
+@media (max-width:350px) {
+	.leaderboard {
+		font-size: 12px;
+	}
+}
+
+.leaderboard {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	height: fit-content;
+	width: 70vw;
+	border: 1px solid white;
+	background: rgba(0, 0, 0, 0.8);
+	color: white;
+	border-radius: 5px;
+	background: rgba(0, 0, 0, 0.55);
+	box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+	backdrop-filter: blur(5px);
+	-webkit-backdrop-filter: blur(5px);
+	border-radius: 10px;
+	border: 1px solid rgba(255, 255, 255, 0.18);
+
+	.leaderboardheading {
+		text-align: center;
+		font-size: 24px;
+		color: aliceblue;
+		margin-top: 15px;
+	}
+
+	.leaderboardData {
+		display: flex;
+		flex-direction: row;
+		justify-content: space-evenly;
+		align-items: center;
+
+		div {
+			padding: 1em;
+			color: #c1bcbc;
+			// font-weight: bold;
+			// font-size: 1.5em;
+			text-align: center;
+
+			p {
+				color: white;
+				text-align: center;
+			}
+		}
+
+	}
+
+}

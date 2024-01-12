@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono&family=VT323&display=swap');
+
+
+.no-page-container {
+    width: 100vw;
+    height: calc(100vh - var(--navbar-height));
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.no-page-table {
+    width: 90vw;
+    height: 150px;
+    background-color: #d4e5ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.no-page-table .no-page-monitor-wrapper {
+    background: #050321;
+    width: calc(90vw - 20px);
+    height: 130px;
+    box-shadow: 0px 2px 2px 2px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.no-page-table .no-page-monitor-wrapper .no-page-monitor {
+    width: calc(90vw - 50px);
+    height: 100px;
+    background-color: #344151;
+    overflow: hidden;
+    white-space: nowrap;
+    box-shadow: inset 0px 5px 10px 2px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.no-page-table .no-page-monitor-wrapper .no-page-monitor p {
+    font-family: gemstone;
+    font-size: 3.5rem;
+    position: relative;
+    display: inline-block;
+    animation: move 5s infinite linear;
+    color: #EBB55F;
+}
+
+@keyframes move {
+    from {
+        left: 120%;
+    }
+
+    to {
+        left: -220%;
+    }
+}

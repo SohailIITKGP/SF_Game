@@ -1,0 +1,2895 @@
+{
+  "code": 0,
+  "message": [
+    {
+      "category": "Dance",
+      "events": [
+        {
+          "id": 6,
+          "event": "Centrifuge",
+          "tagline": "Group Dance Competition",
+          "writeup": "The inter-collegiate group dance competition is a platform for the best dancing troops across\nthe country to flaunt their hypnotic moves. The competition invites all dance forms including\nhip-hop, Punjabi, jazz, kathakali, or contemporary.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. This is an inter-collegiate event and there shall be only one team representing\nthe college in Spring Fest championship. The teams should carry an official letter\nfrom their respective institutes signed by the competent authority, mentioning the\nnames of the participants.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. The team must have a minimum of 4 active members.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. Participants should get their songs/music on a CD or a pen drive. Live music is\nnot allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. The time limit of the performance will be 10+1 minutes (10 minutes for\nperformance and an additional 1 minute to set up and clear the stage).\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Stage specification - According to the venue the teams will be informed through mail 1 week prior to the competition\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. Marks shall be deducted for exceeding the time limit [20% deducted for\nexceeding 11 minutes and the team might be disqualified for exceeding 12\nminutes based on the judges' discretion].\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. In case of malfunctioning of any equipment provided, the team will be allowed\nto repeat their performance from the beginning or from the point of disruption that\nthe team wishes, with the consent of the judges.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. Accessories, costumes and props will have to be arranged by the participants.\n"
+            }
+          ],
+          "min_participation": 4,
+          "max_participation": 40,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 76,
+          "event": "Nrityakala",
+          "tagline": "Solo Classical Dance Competition",
+          "writeup": "As we can see craziness for classical dance all over India has increased exponentially. To\nshowcase culture to all over the world Spring Fest come up with this new event NRITYAKALA.\nWith contestants open to choosing dance categories and styles. The immense popularity has\ntaken the event nationwide, with prelims being held at various major cities before the grand\nfinale.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. The finals will be conducted in IIT Kharagpur during the fest. The shortlisted\nparticipants will be informed by mail and through the call. No on-spot registrations\nwill be allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Participants should get their songs/music on a CD or pen drive. Live music is not\nallowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. The performance should be minimum of 1.5 minutes and a maximum of 4\nminutes long (music on to music off). All forms of classical dance are allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Judging criteria include choreography, stage utilization, energy level, innovation,\nand presentation.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Accessories, costumes, and props will have to be arranged by the participants."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 1,
+          "event": "Shake A Leg",
+          "tagline": "Solo Western Dance Competition",
+          "writeup": "When you are happy and you know it, Shake a Leg. A daring platform to showcase your moves and compete\nagainst the best dancers in the country. Shake a Leg pushes your limits with challenges from impromptu\nchoreography to situational Depictions. All it takes to win the title of Dance Master is your skill in the\nexpression of energy and emotions.\n",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. The finals will be conducted in IIT Kharagpur during the fest. The shortlisted \nparticipants will be informed by mail and through the call. No on-spot registrations \nwill be allowed. \n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Participants should get their songs/music on a CD or pen drive. Live music is not \nallowed. \n"
+            },
+            {
+              "rules": [],
+              "type": " 3. The participant must portray a theme through dance. The participants must \nchoose from a list of themes that will be announced two weeks prior to the fest. \n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Time limit is 3 min-4 min (music on to music off) \n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Stage specification - According to the venue will be informed through mail 1 \nweek prior to the competition Judging criteria: · \n"
+            },
+            {
+              "rules": [],
+              "type": " . Choreography- 35% \n"
+            },
+            {
+              "rules": [],
+              "type": " · Justification with given emotion - 20% \n"
+            },
+            {
+              "rules": [],
+              "type": " · Attitude- 20% · Stage Utilization- 15% \n"
+            },
+            {
+              "rules": [],
+              "type": " · Crowd Response- 10% \n"
+            },
+            {
+              "rules": [],
+              "type": " 7. For both prelims and finals, 20% of marks will be deducted if the performance \nexceeds by I0 sec. If the performance time increases further by 20 sec, it will lead \nto disqualification. \n"
+            },
+            {
+              "rules": [],
+              "type": " 8. In case of malfunctioning of any equipment provided, the participant will be \nallowed to repeat the performance from the beginning or from the point of \ndisruption that the participant wishes, with the consent of the judges. \n"
+            },
+            {
+              "rules": [],
+              "type": " 9. Accessories, costumes and props will have to be arranged by the participants. \n"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 79,
+          "event": "Shuffle",
+          "tagline": "The Nationwide Street Dance Competition",
+          "writeup": "The nationwide street dance competition. Have you got what it takes to sweep the crowd off\nits feet? Your style be hip-hop, tutting, crumping, breakdancing, stepping, b-boying,\ncontraption or western freestyle dancing, this is your chance to take over the street stage.\nTeam size — min 4 and max 10. Props are not allowed.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "Prelims\n"
+            },
+            {
+              "rules": [],
+              "type": "1. The time limit is 4 min to 6 min (length of the music track).\n"
+            },
+            {
+              "rules": [],
+              "type": "2. Participants should perform for more than 2 tracks.\n"
+            },
+            {
+              "rules": [],
+              "type": "Pre-finals\n"
+            },
+            {
+              "rules": [],
+              "type": "1. The time limit is 2min+2min (music on to music off).\n"
+            },
+            {
+              "rules": [],
+              "type": "2. 2 hours after the completion of the preliminary round at IIT Kharagpur, each team would be provided with 2 music\ntracks (1 +1 minutes) for preparation. Different teams would be provided with different music tracks.\n"
+            },
+            {
+              "rules": [],
+              "type": "3. In the time provided, the teams are to choreograph and prepare a dance to the 2 music tracks provided to them\nalong with a 2-minute song chosen by the team.\n"
+            },
+            {
+              "rules": [],
+              "type": "4. The team needs to bring a continuous soundtrack of 4 minutes including 2 minutes of their own song and the 2\nminutes of music provided by Spring Fest and submit it to the organizers 1 hour before the start of the event\n(failing this would lead to disqualification).\n"
+            },
+            {
+              "rules": [],
+              "type": "5. The teams cannot repeat the performance of the prelims.\n"
+            },
+            {
+              "rules": [],
+              "type": "Finals\n"
+            },
+            {
+              "rules": [],
+              "type": "1. The teams ranked in the top 4 in the pre-finals will compete in the finals. Teams\nqualifying for this round will be going against each other in a face-off competition.\n"
+            },
+            {
+              "rules": [],
+              "type": "The order of the teams will be decided through a draw system and the battles\nwould be as follows:\n"
+            },
+            {
+              "rules": [],
+              "type": "a. Battle 1: Team 1 vs. Team 2\n"
+            },
+            {
+              "rules": [],
+              "type": "b. Battle 2: Team 3 vs. Team 4\n"
+            },
+            {
+              "rules": [],
+              "type": "c. Final Battle: Winner Battle 1 vs. Winner Battle 2\n"
+            },
+            {
+              "rules": [],
+              "type": "d. 3rd Position Battle: Runner-up Battle 1 vs. Runner-up Battle 2\n"
+            },
+            {
+              "rules": [],
+              "type": "2. The music tracks will be provided by the Spring Fest Team on the venue itself.\n"
+            },
+            {
+              "rules": [],
+              "type": "3. SAME MUSIC WILL BE PROVIDED TO BOTH THE TEAM.\n"
+            },
+            {
+              "rules": [],
+              "type": "4. Each Battle will be in FIVE rounds. In each round, maximum 4 members from\neach team can go one after the other.\n"
+            },
+            {
+              "rules": [],
+              "type": "5. The time limit for each round is 1 min per team (music on to music off) i.e. 1\nmin x 2 teams x 5 rounds = Total of 10 minutes for each battle.\n"
+            },
+            {
+              "rules": [],
+              "type": "6. In case of a tie an extra round may be provided.\n"
+            },
+            {
+              "rules": [],
+              "type": "7. Judging criteria: · Choreography · Stage Utilization · Costumes · Energy Level ·\nInnovation · Overall impact on the crowd · "
+            },
+            {
+              "rules": [],
+              "type": "For the FACE-OFF round, crowd support\nand most of all, overshadowing the opposite team will be important factors.\n"
+            },
+            {
+              "rules": [],
+              "type": "8.The performance should be in cohesion with the integrity of the fest. The songs selected by the\nparticipants must not contain any foul language. Violation of any of the above will lead to immediate\ndisqualification.\n"
+            },
+            {
+              "rules": [],
+              "type": "The decision of the judges will be final and binding. The organizing committee reserves the\nright to make any last minute change in the rules."
+            }
+          ],
+          "min_participation": 4,
+          "max_participation": 10,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 5,
+          "event": "Two For A Tango",
+          "tagline": "Duet Dance competition",
+          "writeup": "A duet dancing competition sets the stage ablaze with the astonishing chemistry between the \npartners. If you can groove to the rhythm of your comrade, then it’s the perfect place to \nshowcase your grace. The event will be of two rounds. ",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. Participants should get their songs/music on a CD or a pen drive. Live music is \nnot allowed. \n"
+            },
+            {
+              "rules": [],
+              "type": " 2. The event is strictly a duo dance competition and there shouldn't be any extra \nperson on stage at any point during the performance, any combination of two \npeople irrespective Of gender is allowed. \n"
+            },
+            {
+              "rules": [],
+              "type": " 3. Any dance form is allowed. \n"
+            },
+            {
+              "rules": [],
+              "type": " 4. In prelims, the couple will have to dance for 2+1 min (music on to music Off); \nwhile in the finals, the couple has to dance for 4+1 min (music on to music Off). \n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Stage specification - According to the venue will be informed through mail 1 \nweek prior to the competition.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. For both prelims and finals, 20% marks will be deducted if the performance \nexceeds by 15 sec. If the performance increases further by 30 seconds, it will lead \nto disqualification. \n"
+            },
+            {
+              "rules": [],
+              "type": " 7. In case of malfunctioning of any equipment provided, the team will be allowed \nto repeat their performance from the beginning or from the point of disruption that \nthe team wishes, with the consent of the judge.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. Accessories, costumes and props will have to be arranged by the participants. "
+            }
+          ],
+          "min_participation": 2,
+          "max_participation": 2,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        }
+      ]
+    },
+    {
+      "category": "Music",
+      "events": [
+        {
+          "id": 65,
+          "event": "Beat IT",
+          "tagline": "Solo Beatboxing Competition",
+          "writeup": "Beatboxers! They push their voices to insane limits. They have an orchestra living in their throats. This event is for them, the newest addition to our music competitions.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. The competition will be in two parts- Prelims and Finals.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Prelims will be held online wherein top 16 will be selected and called up for finals in Kharagpur during the fest.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. In case a participant is not able to attend, the next participant will be approached or finally on spot registrations will be done in case the minimum number of participants is not reached.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Decision of the judges will be final and binding. No changes will be made  once the judges have announced the results.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. No foul language is allowed. Participant may receive a penalty or not allowed to compete whichever is deemed fit by the organizing committee.\n"
+            },
+            {
+              "rules": [],
+              "type": " \n"
+            },
+            {
+              "rules": [],
+              "type": " Prelims : \n"
+            },
+            {
+              "rules": [],
+              "type": " 1. The participants will be required to send a video of not more than 1.5 minutes performing their piece and submit it in the portal to be released on the FB Page.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. No musical instruments will be allowed. In case it is found, the participant will be disqualified.\n"
+            },
+            {
+              "rules": [],
+              "type": " \n"
+            },
+            {
+              "rules": [],
+              "type": " Finals : \n"
+            },
+            {
+              "rules": [],
+              "type": " 1. This will be a 1vs1 battle rounds among the top 16 participants wherein each beatboxer would be given 2 minutes each and the winners will be decided by the judges.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. The winner from each battle will be promoted to the next battle and the opponents will be decided by the judges in whichever way they seem fit.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. No musical instruments will be allowed. In case it is found, the participant will be disqualified.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. In case judges are not able to decide, another 30 seconds will be provided to each participant to perform. It will be avoided whenever possible."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 86,
+          "event": "Lakeside Dreams",
+          "tagline": "Acoustic Jamming",
+          "writeup": "Have you been into jamming recently? Be it solo or in groups, lake side dreams is the perfect platform to showcase your fervour in acoustic jamming. The competition invites some of the best musicians from across india to sing to the tunes of nature at the lake side stage. This competition is open to any acoustic jam based band and individual performer (without an accompanist) and will take place in 1 round. The winners will be separate for individuals and groups. Vocals are compulsory. The judging will be on the overall performance and not just on the instrumental performance.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. Only songs in English and/or Hindi are permissible.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Time limit for individual performance is a minimum of 2 and a maximum of 7 minutes and for a group performance is a maximum of 15 minutes, inclusive of sound check.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. Only non-electrical musical instruments (guitars, flutes etc.) are allowed. However one synthesizer is allowed per entry. A bass guitar can be used without a processor.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Patch change for synthesizers is not allowed in the middle of a song.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. The following equipment will be provided by us:\n"
+            },
+            {
+              "rules": [],
+              "type": " a.\tPower supply for synthesizer\n"
+            },
+            {
+              "rules": [],
+              "type": " b.\tMicrophones and sounds\n"
+            },
+            {
+              "rules": [],
+              "type": " 6.\tDecision of the judges will be final and binding.(Can decrease 1 minute)\n"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 15,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 75,
+          "event": "Notes Less Travelled",
+          "tagline": "Solo Instrumental Competition",
+          "writeup": "If you can express yourself with music more than words, If plink of a guitar, thaap of a tabla , or ethereal hum of a flute harmonizes with the beat of your heart, Then grab the opportunity to take the audience to your musical world!. This is an individual event and will take place in 2 rounds : Online Prelims, Finals\n",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1) Judging Criteria: Accuracy of notes, Rhythm, selection of composition/original composition, Technique, Impact.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2) Time limit is 3-4 minutes.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3) This is an individual event.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4) The instrument for playing in the event has to be carried by the participant.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5) Back tracks are allowed but they have to be carried in a Pendrive or a CD to the venue."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 77,
+          "event": "Rapmania",
+          "tagline": "Rap Battle",
+          "writeup": "The opportunity to showcase your talent is here, we bring to you an opportunity to experience the hip-hop culture. Here’s a showdown for all the rap enthusiasts! Let’s witness who becomes the next rap god!.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1) Judging Criteria:\n"
+            },
+            {
+              "rules": [],
+              "type": " a) Rhythm,Voice quality and clarity,Delivery (word-play, rhetorical devices, sarcasm, puns, double entendres, witticism)\n"
+            },
+            {
+              "rules": [],
+              "type": " b) Overall impact of the performance ( body language, attitude, etc.).\n"
+            },
+            {
+              "rules": [],
+              "type": " 2) Time Limit: 3 - 4 minutes\n"
+            },
+            {
+              "rules": [],
+              "type": " 3) Backing tracks are allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4) Any sort of racist, sexist or offensive slurs will lead to immediate disqualification.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5) The language of rap can be English and/or Hindi."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 78,
+          "event": "Retrowave",
+          "tagline": "Solo Remix Competition",
+          "writeup": "With the best music-making community in rise and the level of production skillz\ncoming through the country; start working your magic!. This is an individual event and will take place in 1 round : online finals judging criteria: originality, quality of production, use of samples, use of tracks, mixing/mastering",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1) Participants need to submit their Digital Audio Workstation(DAW) file of the\nsoftware used in music production. (For Example: If you are using FL Studio; send\nthe .flp file)\n"
+            },
+            {
+              "rules": [],
+              "type": " 2) The participants need to submit the judging entries(tracks prepared) in any\nuncompressed audio format. (The audio file sent for judging shall be the same as\nthe DAW file submitted.) Time Limit: 3 - 4 minutes.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3) The original tracks selected shall not be remixes. Copying and stealing the\nremixes will lead to disqualification. If found using pre-looped tracks/ pre-extended\nmixes/ re- cued tracks/ pre-pitched tracks will be disqualified.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4) This is an individual event\n"
+            },
+            {
+              "rules": [],
+              "type": " 5) The entry should be submitted to music.sf2023@gmail.com."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 93,
+          "event": "Sargam",
+          "tagline": "Eastern Fusion Band Competition",
+          "writeup": "This spring get ready to float with the melodies of indian classical and folk music with a twist\nof fusion. The eastern fusion group competition witnesses huge participation and gives a\nplatform to various maestros in the rising. Tune your instruments and strike the right notes to\nbeat some of the ustads of indian music and win prizes worth more than a lakh rupees.\nThe event is open to any eastern group and songs in hindi are permitted. The event will take\nplacein 1 round. There is no limit on the team size.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. A group can perform for a maximum of 20 minutes (Amps on to amps off\ninclusive of sound check) and has to perform at least 3 numbers within the given\ntime.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Only keyboard part of synthesizer is allowed (Rhythm part is not allowed).\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. Groups will have to bring their own instruments and special effects. However,\nprogrammed music is not allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Equipment provided will be: a. One bass amplifier speaker. b. One lead amplifier\nspeaker. c. Adequate microphones. d. 10000 Watts P.A. System\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Drum set (you can bring along with your own cymbals and chokes/high hats).\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. Spring Fest team will not be held responsible for the failure of any instruments.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. Tuning facilities would be provided backstage. The decision of the judges will be\nfinal and binding."
+            }
+          ],
+          "min_participation": 3,
+          "max_participation": 30,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 10,
+          "event": "SF Idol",
+          "tagline": "Solo Singing",
+          "writeup": "Get ready to unveil the singer within you as Spring Fest presents SF Idol, the solo singing competition\nthrough which talented singers from across the nation take a shot at fame. From folk to filmy songs, the\nstage is set for you to mesmerize the audience and win exciting prizes.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. Participants can perform any number of songs (in Hindi, English or both)\nwithin 5 minutes after which 20% marks will be deducted after 10 seconds\nand disqualification may occur after 20 seconds.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Participants can perform with one instrumental accompaniment or with a\nbacking track but the judging will be done solely on the basis of vocal performance.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. Performers can be disqualified on the spot for misconduct, obscenity or foul\nlanguage. Judging will be done solely on the basis of vocal performance.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Judging criteria include:\n"
+            },
+            {
+              "rules": [],
+              "type": "      a. Quality of voice\n"
+            },
+            {
+              "rules": [],
+              "type": "      b. Sense of scale and beat\n"
+            },
+            {
+              "rules": [],
+              "type": "      c. Quality of rendition\n"
+            },
+            {
+              "rules": [],
+              "type": "      d. Improvisation\n"
+            },
+            {
+              "rules": [],
+              "type": "      e. Pronunciation of lyrics\n"
+            },
+            {
+              "rules": [],
+              "type": "      f. Mood and expression\n"
+            },
+            {
+              "rules": [],
+              "type": "      g. Overall impact"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 85,
+          "event": "Wildfire",
+          "tagline": "Nationwide Western Rock Band Competition",
+          "writeup": "Wildfire is India’s oldest and most prestigious rock band competition. With prizes worth\nlakhs of rupees and your prestige at stake, wildfire has been the launch pad for many\ncontemporary bands including - Underground Authority, parikrama, Kryptos, Zygnema,\nCassini’s division, and many more. So be ready to fulfill your love for rock at the wildfire\nfinals at Kharagpur! Wildfire is a western and eastern rock band competition, open to any\ncollege or semi-professional band from India and abroad.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. Offline prelims will be conducted in Bangalore, Delhi, Mumbai, Kolkata, Shillong\nand Jaipur.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. After the first round, a shortlist of bands would be released who will qualify to\nperform at the main event at IIT Kharagpur.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. The main event at IIT Kharagpur would consist of 2 rounds: prefinals and finals.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. In prefinals at IIT Kharagpur, a group will be required to perform at least three\nnumbers of their choice within 20 minutes. (Amps on to amps off and inclusive of\nsound check)\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. In finals, a group will be required to perform at least 4 numbers of their choice\nwithin 40 minutes (Amps on to amps off inclusive of sound check).\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. Bands will be disqualified on the spot for misconduct, obscenity or foul\nlanguage, and will be banned from performing at all subsequent editions of spring\nfest.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. Only English and Hindi Rock Music are allowed\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. Equipment provided will be: a. One bass amplifier speaker b. One lead amplifier\nspeaker c. Adequate microphones d. Drum set (Participants can bring along with\nyour own cymbals and chokes/high hats).\n"
+            },
+            {
+              "rules": [],
+              "type": " 9. Bands will have to bring their own musical instruments and special effects.\nHowever, programmed music is not allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 10. Spring Fest will not be held responsible for the failure of any instrument."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 12,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        }
+      ]
+    },
+    {
+      "category": "Dramatics",
+      "events": [
+        {
+          "id": 16,
+          "event": "I Me Myself",
+          "tagline": "Mono-Acting Competition",
+          "writeup": "To all the drama queens out there, this is your best chance to hog the lime light and own the stage! This\nwill be your moment of glory and your chance to steal the show, so prep up for I, Me, Myself and dazzle\nthe audience with your talent and show yourself to be a master of impromptu action.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. This is an individual event and will take place in 1 round. The participants have\nto present a mono act on any theme.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. There can be 1 person to assist with sounds and a maximum of 2 people to\nassist with lights.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. Language of the act can be English/Hindi.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Stage specification - According to the venue will be informed through mail 1\nweek prior to the competition.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Total time allotted for every performance is 4 minutes (empty stage to empty\nstage).\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. If a participant exceeds the stipulated time, 15% of the total marks obtained will\nbe deducted. If he/she exceeds 6 min, he/she stands to be debarred from the\nevent.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. Stage specification - According to the venue will be informed through mail 1\nweek prior to the competition\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. Participants can bring their own music for the act in a pen drive but recorded\nvocals are not allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 9. Instrumental music is allowed but the participants must bring their own\ninstruments.\n"
+            },
+            {
+              "rules": [],
+              "type": " 10. All clothes and accessories are to be arranged by the participants. The\norganizing committee is responsible for the infrastructural facilities only and shall\nnot be responsible for the security of items left behind in green rooms or on stage.\n"
+            },
+            {
+              "rules": [],
+              "type": " 11. No naked flames or live animals are allowed on stage.\n"
+            },
+            {
+              "rules": [],
+              "type": " 12. The participating teams are requested to ensure that their presentation is in\nkeeping with the dignity of the fest."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 83,
+          "event": "Mime",
+          "tagline": "Silent Act",
+          "writeup": "Sometimes silence says what words can't. Spring fest presents you an opportunity to\nshowcase your talent of expressions, gesticulations and body movements without use of\nspeech so bring out your excellent dramatic and creative side and amaze the audience.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. Performance should be a non-verbal act.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Time limit is 4-5 minutes.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. This is an individual event.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Instrumental Music can be used in the background. Music shouldn’t be vocal.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Video Editing is not allowed."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 80,
+          "event": "Nukkad",
+          "tagline": "Street Play",
+          "writeup": "Exploiting the power of a street gathering, Nukkad or street plays have been the medium of the voice of the people from time immemorial. Now be a part of this tradition and strive to bring about change by taking part in Nukkad, one of the most acclaimed street play competitions in India. It is time to break barriers so clear your voices, get ready for the action, drum it up, folks and let your message ring out loud!",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. The event will take place in 2 rounds, prelims and finals.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Teams are expected to perform at an open-air venue, on a stage with an\naudience on all sides.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. The team shall consist of a maximum of 20 people and a minimum of 6 people\nexcluding 2 instrumentalists (optional).\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. In the prelims will be held in Bhopal, Delhi, Mumbai, Pune, Nagpur, Chandigarh,\nKolkata, Ahmedabad, Lucknow, Ranchi, Raipur, Guwahati, Patna, Bhubaneshwar.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Time limit shall be 15 minutes for prelims and 20 minutes for final.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. In case of violation of the time limit, participants will be penalized by the judges.\nThe time duration for prelims and finals includes performance time and stage\nsetting theme. The given time duration is from the empty stage to the empty stage.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. Usage of fire, water, or smoke is not allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. Gulaal or any props, if used, must be cleared off by the participants after their\nperformance within the performance time allotted to them.\n"
+            },
+            {
+              "rules": [],
+              "type": " 9. Any instance of vulgarity or disturbing content of any order will lead to a forceful\nhalt of performance and immediate disqualification.\n"
+            },
+            {
+              "rules": [],
+              "type": " 10. Only live music is allowed. Teams will have to bring their own instruments.\n"
+            },
+            {
+              "rules": [],
+              "type": " 11. Judging Criterion:\n"
+            },
+            {
+              "rules": [],
+              "type": " a. Content, Theme, and Message - 40%\n"
+            },
+            {
+              "rules": [],
+              "type": " b. Performance including Acting, Dialogue, and Expression- 25%\n"
+            },
+            {
+              "rules": [],
+              "type": " c. Interaction and Improvisation - 20%\n"
+            },
+            {
+              "rules": [],
+              "type": " d. Direction, Gimmicks, and Effects - 15%\n"
+            }
+          ],
+          "min_participation": 6,
+          "max_participation": 25,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 14,
+          "event": "Rangmanch",
+          "tagline": "Stage Play",
+          "writeup": "If you think you can mesmerize the audience with acting, script, dialogues and sets - then Rangmanch is\nyour call! It cannot get better than the annual stage play competition at Spring Fest. Once the stage is set\nand all is ready - it is show time!",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. This is a group event. Each team should have a minimum of 5 actors. In\naddition, there can be one person in charge of music and a maximum of 3 people\nfor lights.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. The event will take place in 2 rounds, prelims and finals. Total time allotted for\neach team in the prelims is 15 minutes and for the finals is 50 minutes.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. Language of the play can be English/Hindi. Mime is allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Stage Area: 20ft x 36ft (approx.)\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Pre-registration before 15th January is mandatory. Teams should mail a soft\ncopy of the script to dramatics.sf2023@gmail.com.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. This is an inter-collegiate event and there shall be only 1 team per college. The\nteams should carry an official letter from their respective institutes signed by a\ncompetent authority, mentioning the names of the participants.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. Once a team registers, their preference for a slot for prelims and lights practice\nwill be taken by email. The organizing team shall try to give the preferential slot as\nlong as it is available. The decision made by the organizing team will be final and\nbinding.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. The teams will be informed regarding their lights practice and prelims slots by\nemail.\n"
+            },
+            {
+              "rules": [],
+              "type": " 9. The time duration for prelims and finals includes performance time and stage\nsetting time. The given time duration is from the empty stage to the empty stage.\n"
+            },
+            {
+              "rules": [],
+              "type": " 10. In the finals, if a team exceeds 50 minutes, 15% of the total works obtained\nwill be deducted. If a team exceeds 55 min, it stands to be debarred from the\nevent.\n"
+            },
+            {
+              "rules": [],
+              "type": " 11. Judging Criterion:\n"
+            },
+            {
+              "rules": [],
+              "type": " a. Content - 40%\n"
+            },
+            {
+              "rules": [],
+              "type": " b. Acting/Expression- 30%\n"
+            },
+            {
+              "rules": [],
+              "type": " c. Direction - 20%\n"
+            },
+            {
+              "rules": [],
+              "type": " d. Miscellaneous Effects - 10%\n"
+            },
+            {
+              "rules": [],
+              "type": " 12. Microphones and backstage mikes for narration, lights, and a laptop to play\nsounds will be provided.\n"
+            },
+            {
+              "rules": [],
+              "type": " 13. Recorded vocals are not allowed, only instrumental music is allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 14. The teams are expected to bring their own music on CD or pen drive for the\nplay.\n"
+            },
+            {
+              "rules": [],
+              "type": " 15. In case of malfunctioning of any equipment provided, the team will be allowed\nto repeat their performance from the last scene change or from the point of\ndisruption that the team wishes. It depends on the judge’s discretion as to how\nmuch grace time will be given to the performing team.\n"
+            },
+            {
+              "rules": [],
+              "type": " 16. All costumes and accessories are to be arranged by the participating team. The\norganizing committee is responsible for the infrastructural facilities only and shall\nnot be responsible for the security of items left behind in green rooms or on stage\nafter the performance.\n"
+            },
+            {
+              "rules": [],
+              "type": " 17. Requests for special effects and props should be communicated at least a\nweek in advance by both emails and over the telephone. The same will be provided\nonly if possible.\n"
+            },
+            {
+              "rules": [],
+              "type": " 18. No naked flames or live animals are allowed on stage.\n"
+            },
+            {
+              "rules": [],
+              "type": " 19. The participating teams are requested to ensure that their presentation is in\nkeeping with the dignity of the fest."
+            }
+          ],
+          "min_participation": 5,
+          "max_participation": 25,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        }
+      ]
+    },
+    {
+      "category": "Literary",
+      "events": [
+        {
+          "id": 17,
+          "event": "A Mighty Pen",
+          "tagline": "Journalism Based Event",
+          "writeup": "This is the journalism-based event of spring fest where the participants strive to bring about at least a small change in the society around us with the power of their pens. The problem statement would be released one month before the conduction of the final event.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. This is a group-based event. The number of members allowed per team is 3.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. The teams will be given a journalism-based problem statement one month before the fest.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. They have to prepare a report of up to 1500 words on the given topic, containing adequate pictures and data to support it.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. A soft copy of the report should be submitted before 20th January 2019 to literary.sf2023@gmail.com and a hard copy at the time of presentation.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. The teams are free to decide their way of presentation of the report.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. The team will have 20 minutes to present the report.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. The marks distribution will be as follows:\n"
+            },
+            {
+              "rules": [],
+              "type": " a. Report Content - 30%\n"
+            },
+            {
+              "rules": [],
+              "type": " b. Visual Content (graphs and Data Tables) - 20% \n"
+            },
+            {
+              "rules": [],
+              "type": " c. Interactivity with the reader - 25% \n"
+            },
+            {
+              "rules": [],
+              "type": " d. Presentation - 25%"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 3,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 19,
+          "event": "Dumb C",
+          "tagline": "Dumb Charades",
+          "writeup": "This vintage game brings out all the memories of the endless games of dumb charades we played since when we were kids. So, get ready to live all those memories again, as we take you to a whole new level of competitiveness in this much-loved game!",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. This is a team event with team size 3.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. The event will take place in two rounds, prelims and finals.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. In the prelims, there will be 25 questions on Movies /Literature/Personality/Advertisements flashed on the screen.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. The top 8 teams will qualify for the finals which will be multiple rounds of Dumb Charades.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. In the finals, in each round, one person from the team will act out the clue and the others will guess.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. The 1st round will be based on Movies.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. 2nd round will be based on Movie Personalities.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. A maximum of 45 seconds will be given to the teams to guess the correct movie name and personality.\n"
+            },
+            {
+              "rules": [],
+              "type": " 9. 3rd round will be based on Dialogues/Songs.\n"
+            },
+            {
+              "rules": [],
+              "type": " 10. For the 3rd round, enacting the film itself instead of the Dialogues/Songs not allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 11. A maximum of 60 seconds will be given to the teams to guess the correct Dialogues/Songs.\n"
+            },
+            {
+              "rules": [],
+              "type": " 12. In each of the 3 rounds, every team shall be given 3 clues to enact and each person should be an enactor at least once in all rounds combined.\n"
+            },
+            {
+              "rules": [],
+              "type": " 13. There will be total 4 guesses to be allowed per clue for each round.\n"
+            },
+            {
+              "rules": [],
+              "type": " 14. If the team fails to guess the correct answer in the stipulated time, 10 seconds will be added to the team's time in addition to the allocated time for that clue.\n"
+            },
+            {
+              "rules": [],
+              "type": " 15. The team with the minimum time at the end of three rounds wins."
+            }
+          ],
+          "min_participation": 3,
+          "max_participation": 3,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 24,
+          "event": "English Poetry Slam",
+          "tagline": "English Poetry Recital",
+          "writeup": "One of the events of the fest, which involves the combined art of story-telling, stand-up and\npoetry writing, poetry slam happens to be the flagship event of literary genre. The event\nattracts poetry enthusiasts from all over the country to enchant the audience and fill their\nartistic hunger. The event serves instrumental in recognizing the new generation poets in\nIndia.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. Poems can be on any subject and in any style but must be original and in Hindi\nor English only.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Use of props, special costumes, musical instruments or pre-recorded music is\nnot allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. There is no upper limit of participants from a particular college. The judging shall\nhowever be done individually.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Poems once performed may not be repeated in further rounds, except in case of\ntie-breaking rounds, violation of which disqualifies the poet. Therefore, each poet\nshould plan on bringing at least 3 original poems to compete, with an extra poem\nas buffer for a tie.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Time limit is three minutes. After three minutes, there is a 10-second grace\nperiod after which a penalty of 0.5 is automatically deducted, without warning,\nfrom each poet's overall score for every subsequent 10 seconds.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. Teams may not repeat primary authorship in about. Every poet who performs\nduring a bout must be a primary author.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. The judges’ will give each poem a score from 0 to 10.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. The sum of all the scores by all the judges in the panel for a particular round and\nthe grand total of each bout will be considered for their qualification to next bout.\n"
+            },
+            {
+              "rules": [],
+              "type": " 9. The best 3 poets shall be adjudged the winners of Poetry Slam."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 67,
+          "event": "Hindi Poetry Slam",
+          "tagline": "Hindi Poetry Recital",
+          "writeup": "One of the events of the fest, which involves the combined art of story-telling, stand-up and\npoetry writing, poetry slam happens to be the flagship event of literary genre. The event\nattracts poetry enthusiasts from all over the country to enchant the audience and fill their\nartistic hunger. The event serves instrumental in recognizing the new generation poets in\nIndia.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. Poems can be on any subject and in any style but must be original and in Hindi\nor English only.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Use of props, special costumes, musical instruments or pre-recorded music is\nnot allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. There is no upper limit of participants from a particular college. The judging shall\nhowever be done individually.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Poems once performed may not be repeated in further rounds, except in case of\ntie-breaking rounds, violation of which disqualifies the poet. Therefore, each poet\nshould plan on bringing at least 3 original poems to compete, with an extra poem\nas buffer for a tie.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Time limit is three minutes. After three minutes, there is a 10-second grace\nperiod after which a penalty of 0.5 is automatically deducted, without warning,\nfrom each poet's overall score for every subsequent 10 seconds.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. Teams may not repeat primary authorship in about. Every poet who performs\nduring a bout must be a primary author.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. The judges’ will give each poem a score from 0 to 10.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. The sum of all the scores by all the judges in the panel for a particular round and\nthe grand total of each bout will be considered for their qualification to next bout.\n"
+            },
+            {
+              "rules": [],
+              "type": " 9. The best 3 poets shall be adjudged the winners of Poetry Slam."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 18,
+          "event": "Impromptu",
+          "tagline": "Impromptu Public Speaking And Elocution",
+          "writeup": "This is the extempore speaking competition of Spring Fest that brings out a whole new dimension in the art of public speaking.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. In the finals, the order of finalists will be decided by the draw of lots.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Each participant will be given a social (Picture or Video) topic. He has to speak\non either for or against the topic.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. Each participant will be given 30 seconds to think and 90 seconds to speak.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Whenever the judge blows a whistle/ring a bell/give any form of sign, the speaker will have to contradict his/her views. The sign may be given more than once for a contestant or may not be given at all.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. If the participant wishes to change the topic he may do so only one time after a penalty of 10% of the total marks.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. If the participants don't speak for one minute, they will be disqualified.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. For 15 seconds overshoot, a 15 % penalty on marks obtained will be imposed on the speaker.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. Exceeding the time limit for more than 30 seconds will lead to disqualification."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 23,
+          "event": "India Calling",
+          "tagline": "Case Study",
+          "writeup": "Spring Fest presents India Calling, a case study presentation based on a social problem statement. An\nevent for the students and faculty alike as young minds present their ideas that have both financial and\nsocial goals integrated to its purpose! Participants need to be socially motivated and practical into their\napproach. Problem statement for the event will be released\none month before the final event.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. It is a team event, with a maximum of 4 members per team.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. For the prelims, all participating teams need to send an abstract of their presentation to literary.sf2023@gmail.com. The presentation should be in pdf format.\n3. The presentation should have a maximum of 30 pictures accompanied by captions and slogans, as well as a 500-word policy proposal.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Mark distribution (Prelims)\n"
+            },
+            {
+              "rules": [],
+              "type": " a. Pictures, Slogans & Captions(Content) - 40% \n"
+            },
+            {
+              "rules": [],
+              "type": " b. Pictures, Slogans & Captions (Projection of topic) - 20% \n"
+            },
+            {
+              "rules": [],
+              "type": " c. Presentation - 20% \n"
+            },
+            {
+              "rules": [],
+              "type": " d. Policy proposal - 20%\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Finalists will be selected on the basis of prelims and shall be notified within 5 days of end of the submission.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. For the finals, the teams need to give a 20-minute presentation.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. The participants are free to decide the way of presentation of their report.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. A hard copy of the report must be submitted to the organizing team at the time of the presentation."
+            }
+          ],
+          "min_participation": 2,
+          "max_participation": 5,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 21,
+          "event": "Jumble The Good Word",
+          "tagline": "Word Game",
+          "writeup": "A word game where your knowledge, memory, wit and teamwork skills are tested with you having\nimmense fun all along.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. This is a team event with three participants per team. \n"
+            },
+            {
+              "rules": [],
+              "type": " 2. The event will be conducted in two rounds, prelims and finals.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. The prelims will consist of 30 questions to be answered in a 15 minutes duration.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. The quiz (final round) will contain various word games like crossword, analogies, scramble the world. \n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Any communication with the judge will result in disqualification. \n"
+            }
+          ],
+          "min_participation": 2,
+          "max_participation": 3,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 84,
+          "event": "Just A Minute",
+          "tagline": "JAM",
+          "writeup": "An event for the grammar nazis and those glib of tongue, where you have to speak fluent and grammatically correct english for one minute without any hesitation, repetition or deviation.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. This is an individual event.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Participants come on stage in random groups of 8 and will play multiple rounds of Just a Minute.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. In each round, the participants will be given a topic on which one of the 8 participants on stage will have to start speaking on the spot.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. He continues speaking until someone else from the group challenges him by 'jamming' him.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. If the challenge is successful, the person who jams, starts speaking in turn. This process continues till 1 minute is over.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. At the end of a minute, the next round will start with another topic.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. At the end of all the rounds, the participants with the maximum points in the group will move on to the next level.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. Points will be allotted as follows: 1 point for every second the participant speaks, in case of a challenge made by any participant on the grounds of hesitation, repetition or deviation, 5 points will be added to his score if he is correct and 5 points will be deducted if he is incorrect. In case of any other challenge as determined by the JAM master, 2 points will be added or subtracted, 5 points will be added to the score of the participant who is speaking at the end of the minute."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 0,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 20,
+          "event": "National Level Debate",
+          "tagline": "Debate Competition",
+          "writeup": "The National Level Debate of Spring Fest is an oxford union style debating contest in which the best minds from all over India descend to IIT Kharagpur for a battle of wits where only those with the wittiest tongue wins.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. The event will take place in 2 rounds, prelims and finals.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Both rounds will be presidential-style debates.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. Top 12 participants based on their points will go through to the final round.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. The total time allotted per debate is 10.5 minutes. The time division is as follows:\n"
+            },
+            {
+              "rules": [],
+              "type": " a. Speaker 1-2 minutes\n"
+            },
+            {
+              "rules": [],
+              "type": " b. Speaker 2-4 minutes\n"
+            },
+            {
+              "rules": [],
+              "type": " c. Speaker 1-2 minutes\n"
+            },
+            {
+              "rules": [],
+              "type": " d. Direct question- 1 minute, maximum 2 questions\n"
+            },
+            {
+              "rules": [],
+              "type": " e. Concluding statements- 15 seconds each.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. There will be a coin toss to decide the order of questioning and closing arguments. The winner gets to choose whether to take the first or second question or give the first or second closing statement.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. The participants will not be allowed to read out from any material but will be allowed to carry plain papers to jot down any points if required.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. Exceeding the time limit will result in a penalty of 20%.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. The decision of the judge is final.\n"
+            },
+            {
+              "rules": [],
+              "type": " 9. Judging Criteria:\n"
+            },
+            {
+              "rules": [],
+              "type": " a. Content of Speech - 40%\n"
+            },
+            {
+              "rules": [],
+              "type": " b. Expression - 30%\n"
+            },
+            {
+              "rules": [],
+              "type": " c. Questions posed & Answers - 30%"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 92,
+          "event": "Poetry Slam",
+          "tagline": "Poetry Recital",
+          "writeup": "One of the events of the fest, which involves the combined art of story-telling, stand-up and\npoetry writing, poetry slam happens to be the flagship event of literary genre. The event\nattracts poetry enthusiasts from all over the country to enchant the audience and fill their\nartistic hunger. The event serves instrumental in recognizing the new generation poets in\nIndia.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. Poems can be on any subject and in any style but must be original and in Hindi\nor English only.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Use of props, special costumes, musical instruments or pre-recorded music is\nnot allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. There is no upper limit of participants from a particular college. The judging shall\nhowever be done individually.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. Poems once performed may not be repeated in further rounds, except in case of\ntie-breaking rounds, violation of which disqualifies the poet. Therefore, each poet\nshould plan on bringing at least 3 original poems to compete, with an extra poem\nas buffer for a tie.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Time limit is three minutes. After three minutes, there is a 10-second grace\nperiod after which a penalty of 0.5 is automatically deducted, without warning,\nfrom each poet's overall score for every subsequent 10 seconds.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. Teams may not repeat primary authorship in about. Every poet who performs\nduring a bout must be a primary author.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. The judges’ will give each poem a score from 0 to 10.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. The sum of all the scores by all the judges in the panel for a particular round and\nthe grand total of each bout will be considered for their qualification to next bout.\n"
+            },
+            {
+              "rules": [],
+              "type": " 9. The best 3 poets shall be adjudged the winners of Poetry Slam."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 99,
+          "event": "Tell a Tale",
+          "tagline": "Story Telling",
+          "writeup": "Story telling has been a tradition through homes and families, taking this ahead we are\nintroducing a new event, for you to display your talent",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "1. This is an individual event.\n"
+            },
+            {
+              "rules": [],
+              "type": "2.Time limit:6-8 min.\n"
+            },
+            {
+              "rules": [],
+              "type": "3.Juding criteria includes \n"
+            },
+            {
+              "rules": [],
+              "type": "a. expressions\n"
+            },
+            {
+              "rules": [],
+              "type": "b. story & theme\n"
+            },
+            {
+              "rules": [],
+              "type": "c. audience interaction\n"
+            },
+            {
+              "rules": [],
+              "type": "4.Story should be original, and any sense of copy with any instances will lead to direct disqualification of the participant.\n"
+            },
+            {
+              "rules": [],
+              "type": "5. Any instance of vulgarity or disturbing content of any order will lead to a forceful halt of performance and immediate disqualification.\n"
+            },
+            {
+              "rules": [],
+              "type": "6. Participants can bring their own music for the act in a pen drive but recorded vocals are not allowed."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        }
+      ]
+    },
+    {
+      "category": "Film Fest",
+      "events": [
+        {
+          "id": 27,
+          "event": "A Picture Tale",
+          "tagline": "Photo Story",
+          "writeup": "Pictures are worth a thousand words and a million emotions. A professional photo story event for the photography enthusiasts put there, A Picture Tale is the perfect excuse to capture moments, sublime glances and unforgettable moments and weave them all into an elaborate and enticing storyline.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. This is an individual competition.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Any camera may be used (Digital SLRs, Mobile Camera etc.)\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. Each participant will have to submit a maximum of 10 photographs clicked during a specified time period.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. The photographs shall also be submitted as a PDF file along with an apt title and a brief photo story description of not more than 30 words.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. The theme for the event shall be released online one month before the fest.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. Photographs must be clicked after the theme is officially released. The EXIF data shall be checked and plagiarism will be dealt severely.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. Only basic photo editing is allowed i.e. cropping, adjusting the hue/saturation, brightness, contrast levels. Photo morphing is strictly not allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. The participants will have to submit their photographs online at filmfest.sf2023@gmail.com by 25th of January.\n"
+            },
+            {
+              "rules": [],
+              "type": " 9. Spring Fest will not be responsible for any technical errors due to non- compatibility of photos"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 94,
+          "event": "Lights Camera SF",
+          "tagline": "Documentary making event",
+          "writeup": "This is your chance to make a short film covering one of the biggest social and cultural fests of\nIndia! So, all of spring fest is a game and may the most creative and omniscient team win!",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1.It is a documentary making event.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2.Team size should be 4 or less.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. The teams will have to come to Kharagpur and shoot a documentary starting\nfrom the 1st day of Spring Fest 2023, encompassing the fest.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4.The documentary should be under 8 minutes.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. The participants will have to submit their videos online at\nfilmfest.sf2023@gmail.com by 30th of January. It can have either an attached file\nor link to the movie. The mail should have the subject “SF Lights Camera SF-\nGroup Name”. Spring Fest is not responsible for any technical problems arising out\nof non-compatibility of the videos.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. The complete movie has to be submitted in .mpeg or .avi formats only. Spring\nFest shall not be responsible for any issues arising due to non-compatibility.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. Judging criteria includes fest coverage, content, editing and overall impact of\nthe video.\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. Spring Fest reserves the right to use the video entries on social media (suitable\ncredits will be given to the people responsible for the creation of the content).\n"
+            },
+            {
+              "rules": [],
+              "type": " 9. The use of copyright content like background music, etc. is not allowed and will\nlead to disqualification"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 4,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 68,
+          "event": "SFM",
+          "tagline": "Short Film Making Competition",
+          "writeup": "Do you consider yourself a visionary or an amateur director? Then Short Film Making competition at Spring Fest is your chance to prove your worth by producing a short film of your own and displaying it on a large screen before a large audience to enjoy and appreciate your brilliance. The short film has to be made on a certain theme that would be released two months before the final event.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. The team size can be 10 to 15 people including actors.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. The time range for the short film will be 6 to 8 min.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. The movie should either be in Hindi or English or both. No other languages are permitted.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. The video may be taken with any device.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. A list of specific situations will be released on the website one month before the fest. At least one of these situations has to be included in the short film.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. It is imperative that at least one of the actors in the short film registers at the control tent to confirm the authenticity of the short film. The participating actor has to submit his/her SF ID as well, when submitting the video, along with scanned college ID’s, photos and SF ID’s of all the group members.\n"
+            },
+            {
+              "rules": [],
+              "type": " 7. The participants will have to submit their films online at filmfest.sf2023@gmail.com by 25th of January. It can have either an attached file or link to the movie. The mail should have the subject “SF-Short Film Making-Group Name”\n"
+            },
+            {
+              "rules": [],
+              "type": " 8. The complete movie has to be submitted in .mpeg or .avi formats only. Spring Fest shall not be responsible for any issues arising due to non-compatibility.\n"
+            },
+            {
+              "rules": [],
+              "type": " 9. Obscenity of any kind is not allowed and shall lead to disqualification. Photo animations, slide shows, remixes, spoofs and advertisements must be avoided.\n"
+            },
+            {
+              "rules": [],
+              "type": "10. The decision of the judges and the organizing team will be final and binding.\n"
+            },
+            {
+              "rules": [],
+              "type": " 11. Spring Fest reserves the right to use the video entries on social media (suitable credits will be given to the people responsible for the creation of the content).\n"
+            },
+            {
+              "rules": [],
+              "type": " 12. The use of copyright content like background music, etc. is not allowed and will lead to disqualification. "
+            }
+          ],
+          "min_participation": 10,
+          "max_participation": 15,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        }
+      ]
+    },
+    {
+      "category": "Quiz",
+      "events": [
+        {
+          "id": 32,
+          "event": "BIZTECH",
+          "tagline": "   Business and Technology Quiz",
+          "writeup": "Time has come to capitalize on the well preserved and reserved acumen for business matters and technical bits. From logos to taglines of the companies to historic people and events in the it industry, nothing is left behind. This is the apt quiz for you if you live on a daily dose of ‘the economic times’ and ‘digit’.\n",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "1.This is a team event. Each team will have a maximum of four members.\n"
+            },
+            {
+              "rules": [],
+              "type": "2.The event will take place in two rounds, written prelims followed by finals.\n"
+            },
+            {
+              "rules": [],
+              "type": "3.8 teams from the prelims will qualify for the finals.\n"
+            },
+            {
+              "rules": [],
+              "type": "4.In the finals, the quiz master will explain the detailed rules before conducting every round.\n"
+            },
+            {
+              "rules": [],
+              "type": "5.The quiz master’s decision is final and binding.\n"
+            },
+            {
+              "rules": [],
+              "type": "6.The organizing team reserves the right to change or modify any of the rules"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 4,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 29,
+          "event": "Mary Bucknel Trophy",
+          "tagline": "General Quiz",
+          "writeup": "The Mary Bucknell trophy is one of the oldest and the most coveted quizzing competition in the east. The general quiz has been a part of spring fest, since the early 70’s. A yearning for knowledge and a passion for quizzing along with general awareness is all that is required.\n",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "1.This is a team event. Each team will have a maximum of four members.\n"
+            },
+            {
+              "rules": [],
+              "type": "2.The event will take place in two rounds, written prelims followed by finals.\n"
+            },
+            {
+              "rules": [],
+              "type": "3.8 teams from the prelims will qualify for the finals.\n"
+            },
+            {
+              "rules": [],
+              "type": "4.In the finals, the quiz master will explain the detailed rules before conducting every round.\n"
+            },
+            {
+              "rules": [],
+              "type": "5.The quiz master’s decision is final and binding.\n"
+            },
+            {
+              "rules": [],
+              "type": "6.The organizing team reserves the right to change or modify any of the rules\n"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 4,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 44,
+          "event": "SpEnt",
+          "tagline": "Sports and Entertainment Quiz",
+          "writeup": "From page 3 to cricket and kabaddi, this quiz covers it all. The sports and entertainment quiz is tailor made to test your awareness about the glamour world from actors to movies and the sporting world from great sports persons to their statistics and records. Conducted in a unique fashion, there is something in it for every member of the audience.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "1.This is a team event. Each team will have a maximum of four members.\n"
+            },
+            {
+              "rules": [],
+              "type": "2.The event will take place in two rounds, written prelims followed by finals.\n"
+            },
+            {
+              "rules": [],
+              "type": "3.8 teams from the prelims will qualify for the finals.\n"
+            },
+            {
+              "rules": [],
+              "type": "4.In the finals, the quiz master will explain the detailed rules before conducting every round.\n"
+            },
+            {
+              "rules": [],
+              "type": "5.The quiz master’s decision is final and binding.\n"
+            },
+            {
+              "rules": [],
+              "type": "6.The organizing team reserves the right to change or modify any of the rules"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 4,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        }
+      ]
+    },
+    {
+      "category": "Fine Arts",
+      "events": [
+        {
+          "id": 38,
+          "event": "Bran-D",
+          "tagline": "Digital Branding Designing Competition",
+          "writeup": "Brand-d is the intelligent use of design required to help a brand perform better. If you wish to create a brand name using your skills in design and if you like a tough challenge, then this is a competition for you.\n",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "1.This is a team event. Each team can consist of maximum 5 people.\n"
+            },
+            {
+              "rules": [],
+              "type": "2.The event will take place in 2 rounds: Eliminations and Finals.\n"
+            },
+            {
+              "rules": [],
+              "type": "3.The problem statement shall be released online through the website and \nour Official Facebook page two months before the fest.\n"
+            },
+            {
+              "rules": [],
+              "type": "4.The Eliminations shall be conducted online. Participating teams shall decide the brand name according to the problem statement. The submission portfolio must necessarily consist of the following: \n"
+            },
+            {
+              "rules": [],
+              "type": "• Corporate Logo • Corporate Tagline/Slogan • Corporate Logistics: Letter Head (21.59 cm x 27.94 cm), Envelope (22 cm x 11 cm), Business Card (9 cm x 5 cm),  Email Signature, Stationery\n"
+            },
+            {
+              "rules": [],
+              "type": "5.The participants are expected to send their brand design portfolio at \nfineart23@gmail.com\n"
+            },
+            {
+              "rules": [],
+              "type": "6.The portfolio must be submitted in one of the following formats: jpeg, .tiff, .png.\n"
+            },
+            {
+              "rules": [],
+              "type": "7.Shortlisted teams will qualify for finals.\n"
+            },
+            {
+              "rules": [],
+              "type": "8.For the final round, the team needs to prepare and present a Marketing Strategy  for promoting and launching the brand for a period of 6 months, defining the  media platforms used and the content and activity on each platform. Presentation  time is 1 5 minutes including setup.\n"
+            },
+            {
+              "rules": [],
+              "type": "9.Presentation must include: · Company name: whom you are · A literal descriptor slide: what you do · Tag line and values of the brand: how you do it · Unique company logo: your visual mark · Brand guide: your brand standards and Other designs · Marketing Campaigns: your marketing strategies and corporate branding  strategies\n"
+            },
+            {
+              "rules": [],
+              "type": "10.In finals, there should be at least 2 spokespeople and 1 person to handle \nthe technical support"
+            }
+          ],
+          "min_participation": 2,
+          "max_participation": 5,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 95,
+          "event": "Digital Illustration",
+          "tagline": "Digital Art Competition",
+          "writeup": "This is a Digital Art Competition.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1) The participants have to create an art on a digital illustrator depicting the\nmotto of the fest: \" The True Spirit of Youth\".\n"
+            },
+            {
+              "rules": [],
+              "type": " 2) The use of images available online to integrate directly into the art is strictly\nnot allowed and may lead to disqualification.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3) The art should be submitted in form of .png or .JPEG format\n"
+            },
+            {
+              "rules": [],
+              "type": " 4) Participants have to make online submissions on\nfinearts.sf2023@gmail.com."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 90,
+          "event": "Face Canvas",
+          "tagline": "Face Painting Competition",
+          "writeup": "Face Canvas is a face painting competition",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "1.This is a team event. Each team Will have 2 members. One member will paint on the other member's face.\n"
+            },
+            {
+              "rules": [],
+              "type": "2.Participating teams can depict any theme but the use of the internet and external aid is strictly prohibited.\n"
+            },
+            {
+              "rules": [],
+              "type": "3.Time limit for the event is 2 hours.\n"
+            },
+            {
+              "rules": [],
+              "type": "4.Stickers and any kind of make-up items are not allowed.\n"
+            },
+            {
+              "rules": [],
+              "type": "5.All logistics shall be provided on the spot. NO additional logistics apart from those provided in the beginning, can be used."
+            }
+          ],
+          "min_participation": 2,
+          "max_participation": 2,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 89,
+          "event": "Finger Painting",
+          "tagline": "Finger Painting Competition",
+          "writeup": "This is a finger painting competition.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "1.This is an individual event.\n"
+            },
+            {
+              "rules": [],
+              "type": "2.Participants are needed to make a painting based on a theme given to them \non the spot. The time limit is 2 hours.\n"
+            },
+            {
+              "rules": [],
+              "type": "3.Participants are strictly prohibited to use brushes or anything in place of fingers to paint.\n"
+            },
+            {
+              "rules": [],
+              "type": "4.All logistics shall be provided on the spot. NO additional logistics apart from \nthose provided in the beginning, can be used.\n"
+            },
+            {
+              "rules": [],
+              "type": "5.Use of any outside aids and internet is strictly prohibited and may lead to disqualification."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 98,
+          "event": "Junk Art",
+          "tagline": "Waste Art Competition",
+          "writeup": "This is a Waste Art Competition.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1) Participants have to prepare an art form from all recyclable materials like\nplastic bottles, glass bottle, etc. from a marked area in the campus.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2)Every participant will be provided 3 hours of time and a kit to pick up the junk\nin the area.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3) Requirements regarding the paints, papers will be fulfilled by the spring fest\nteam\n"
+            },
+            {
+              "rules": [],
+              "type": " 4) The participants will submit their entries in the control tent.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5) Evaluation will be based upon the number of junk materials included, the\ntheme of the art and the creativity in the colour contrast."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 35,
+          "event": "Paint It",
+          "tagline": "Water Color Painting Competition ",
+          "writeup": "For all the amateur da Vincis and Picassos out there! Unleash the creativity in you and create new worlds by taking part in this all-watercolor painting competition.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "1. This is an individual event. Registrations will be accepted on the spot. The time limit is 2.5 hours.\n"
+            },
+            {
+              "rules": [],
+              "type": "2. The event will be conducted in one round.\n"
+            },
+            {
+              "rules": [],
+              "type": "3. Participants are needed to make a painting based on a theme given to them on the spot.\n"
+            },
+            {
+              "rules": [],
+              "type": "4. Judging shall be based on the depiction of the theme and aesthetic appeal of the painting.\n"
+            },
+            {
+              "rules": [],
+              "type": "5. All logistics shall be provided on the spot. NO additional logistics apart from\nthose provided in the beginning can be used.\n"
+            },
+            {
+              "rules": [],
+              "type": "6. Use Of any outside aids and the internet is strictly prohibited and may lead to disqualification."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 97,
+          "event": "Rangoli",
+          "tagline": "Rangoli Making Competition",
+          "writeup": "This is a Rangoli Making Competition.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. This is a team event. The maximum team size is 3. On-spot registrations will be accepted.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Participating teams are needed to make a Rangoli based on a theme given on\nthe spot. The time limit for the event is 3 hours.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. The size of each Rangoli should be 3ftX 3ft.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. There must NOT be any personal indication mark or writing on the job submitted.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. All logistics shall be provided on the spot. NO additional logistics apart from\nthose provided in the beginning can be used.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. Use of any outside aids and the internet is strictly prohibited and may lead to\ndisqualification."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 3,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 36,
+          "event": "Sketch It",
+          "tagline": "Pencil Sketching Competition",
+          "writeup": "Sometimes colours cannot express what may look best in shades of black and white, so “sketch it” with the finest strokes of your pencil.  ",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "1. This is an individual event. Registrations will be accepted on the spot. The time limit is 2.5 hours.\n"
+            },
+            {
+              "rules": [],
+              "type": "2. The event will be conducted in one round.\n"
+            },
+            {
+              "rules": [],
+              "type": "3. Participants are needed to make a painting based on a theme given to them on the spot.\n"
+            },
+            {
+              "rules": [],
+              "type": "4. Judging shall be based on the depiction of the theme and aesthetic appeal of the painting.\n"
+            },
+            {
+              "rules": [],
+              "type": "5. All logistics shall be provided on the spot. NO additional logistics apart from\nthose provided in the beginning can be used.\n"
+            },
+            {
+              "rules": [],
+              "type": "6. Use Of any outside aids and the internet is strictly prohibited and may lead to disqualification."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 96,
+          "event": "Soapaholic",
+          "tagline": "Soap Carving Competition",
+          "writeup": "This is a Soap Carving Competition.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "1. This is an individual event. Registrations Will be accepted on the spot.\n"
+            },
+            {
+              "rules": [],
+              "type": "2. Participating teams are needed to carve a soap based on any theme.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. Time limit for the event is 2 hours.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4. The participants would be given only one bar of soap. They have to design on\nthe same bar that is provided.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. All logistics shall be provided on the spot. NO additional logistics apart from\nthose provided in the beginning can be used.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6. Use Of any outside aids and the internet is strictly prohibited and\nmay lead to disqualification."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        }
+      ]
+    },
+    {
+      "category": "Food Fest",
+      "events": [
+        {
+          "id": 55,
+          "event": "Chefs Corner",
+          "tagline": " Cooking Competition",
+          "writeup": "Are you an artist who loves to create magic in the kitchen? If yes, this is the place for you. Chef’s corner is one of the most novel competitions of spring fest. A unique cooking competition has been a center of attraction for not only master chefs but anyone who loves food.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "1.Click at least 3 photos of the final dish from multiple angles(Front view, top \nview, Sideview, etc.) It should include the name of dish, ingredients, recipe, and \nwhether the recipe is self- made or not.\n"
+            },
+            {
+              "rules": [],
+              "type": "2.Click 1 photo of a bite-size portion as well.\n"
+            },
+            {
+              "rules": [],
+              "type": "3.Record a video of at least 2 minute showing the most crucial step of your cooking process.\n"
+            },
+            {
+              "rules": [],
+              "type": "4.Write the recipe of the dish in a document and save it in .pdf format."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 88,
+          "event": "Food Carving",
+          "tagline": "",
+          "writeup": "",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 0,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 87,
+          "event": "Mixology",
+          "tagline": "Cocktail Mixing Competition",
+          "writeup": "This is a cocktail mixing competition",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "Rules"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 57,
+          "event": "Top It to Win It",
+          "tagline": "The Cupcake Dressing Competition",
+          "writeup": "One of the latest additions to the food fest genre is top it to win it, a cupcake dressing workshop cum competition in spring fest. With the basic idea of promoting and popularizing the cupcake culture in India, top it to win it has proved to be an attraction for the youth with chefs and bakeries sharing their skills, knowledge, and experience.\n",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "1. This is an individual event. \n"
+            },
+            {
+              "rules": [],
+              "type": "2. It will be a single-stage competition.\n"
+            },
+            {
+              "rules": [],
+              "type": "3. Participants have to take at least two cupcakes and a list of ingredients required to decorate it is given below. No other ingredients will not be allowed. \n"
+            },
+            {
+              "rules": [],
+              "type": "4. Judging will be based on presentation."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        }
+      ]
+    },
+    {
+      "category": "Fashion",
+      "events": [
+        {
+          "id": 72,
+          "event": "Mr and Ms SPRING FEST",
+          "tagline": "Personality Hunt Competition",
+          "writeup": "Long ago, tribes used daring feats of skill and bravery to choose the worthiest amongst\nthem. To be welcomed to the tribe you, too, must impress the Headman with your... eh,\nskills, for lack of a better word. The stage sets on fire, when the unseen, unforgettable,\nultimate accessory and perception of fashion heralds the arrival of blistering and dynamic\nyouth of this country which finally leads to a classic style of a competition.\n",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. List of participants selected for the final round will be announced through emails. \n"
+            },
+            {
+              "rules": [],
+              "type": " 2. This will be an Introductory (Time limit – 2 minutes maximum) and Q&A round. \n"
+            },
+            {
+              "rules": [],
+              "type": " 3. Dress Code: For Boys – Blazer, Tie and dress slacks or a suit with shoes For Girls – Cocktail dress. \n"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 70,
+          "event": "Navyata",
+          "tagline": "Fashion Show",
+          "writeup": " Fashion is an art, a religion, a peek into a personality. For some, it’s an escape or a disguise while for others it’s just being comfortable. But ultimately, fashion is an individual statement of expression for each of us and Fashionista is the avenue to express yourself. A glimmering show of ethnic wear to mesmerize the desi audience. Spring Fest, as a part of its Diamond Jubilee Edition last year, entered into a nascent stage of a new genre of event.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "Elimination\n"
+            },
+            {
+              "rules": [],
+              "type": "1. Designers have to mail the following to fashion.sf2023@gmail.com.\n"
+            },
+            {
+              "rules": [],
+              "type": "2. A soft copy of their designs for the stage round\n"
+            },
+            {
+              "rules": [],
+              "type": "3. Write-ups explaining their designs for the stage round\n"
+            },
+            {
+              "rules": [],
+              "type": "4. The designers need to present at least 2 and a maximum of 8 dresses which will be based on one of the below mentioned themes. Each set of design can have multiple numbers of accessories.\n"
+            },
+            {
+              "rules": [],
+              "type": "5.Only the designs submitted during this round will be allowed to be worn by the models in the\nstage round. Thus, the submission should necessarily include the designs for the stage round. The\nfirst round of eliminations shall be based on the above-listed submissions.\n"
+            },
+            {
+              "rules": [],
+              "type": "Stage Round\n"
+            },
+            {
+              "rules": [],
+              "type": "1.The teams selected from the elimination will perform at Spring Fest.\n"
+            },
+            {
+              "rules": [],
+              "type": "2. Team size - 5 -10.\n"
+            },
+            {
+              "rules": [],
+              "type": "3. Time Limit: 7 minutes per team (empty stage to empty stage)\n"
+            },
+            {
+              "rules": [],
+              "type": "4. There can be multiple teams from a single college\n"
+            },
+            {
+              "rules": [],
+              "type": "5. Crossover teams can be formed between students of different colleges,\nall having valid college ID cards for the current year.\n"
+            },
+            {
+              "rules": [],
+              "type": "6. Teams can ask for assistance from people outside the college such as\nchoreographers, make-up artists, but these professionals will not be\nconsidered to be a part of the team.\n"
+            },
+            {
+              "rules": [],
+              "type": "7. Vulgarity of any kind would lead to disqualification of the team from the\nevent. Hence, if the team feels that any stunt or costume design can be\nconsidered vulgar, it is strongly advised to consult the organizers before\ndisplaying it on stage. The decision of the organizers will be final in case of\nany disputes arising due to this\n"
+            },
+            {
+              "rules": [],
+              "type": "8. Teams are suggested to inform the organizers of any kind of props they\nare planning to use. Use of water, fire, pets or any hazardous materials is\nnot allowed. Teams are instructed to consult with the organizers before\nusing any material. Teams are instructed to send the sound track/music to\nbe used during their performance to the organizers through mail at least a\nweek prior to the event.\n"
+            },
+            {
+              "rules": [],
+              "type": "9. No branding on clothes will be allowed. Sponsors of colleges will be given\ncompere mentions only.\n"
+            },
+            {
+              "rules": [],
+              "type": "10.No animals or birds should be harmed in the making the designs. Doing\nso will lead to immediate disqualification.\n"
+            },
+            {
+              "rules": [],
+              "type": "11.JUDGING CRITERIA:\n"
+            },
+            {
+              "rules": [],
+              "type": "• Designers: originality, depiction of theme, designing, use of props and accessories, use of fabrics\n"
+            },
+            {
+              "rules": [],
+              "type": "• Models: ramp walk, stage presence, poise, overall appearance\n"
+            },
+            {
+              "rules": [],
+              "type": "• Team: choreography, music and narration, co-ordination, relevance to the theme, overall performance\n"
+            },
+            {
+              "rules": [],
+              "type": "The decision of the judges will be final and binding. The organizing committee reserves the\nright to make any last minute change in the rules."
+            }
+          ],
+          "min_participation": 5,
+          "max_participation": 10,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 41,
+          "event": "Panache",
+          "tagline": "Paper Dress Design",
+          "writeup": "Spring Fest’s very own fashion show where flamboyance and design sense meet in an impromptu manner. The unique event witnesses dresses made out of paper designed on spot to suit the rigour and grace of the wearer. So run wild your imagination and create a masterpiece worth watching.\t",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1.\tThis is a team event. Each team Will have 2 members, one member for whom the outfit Will be designed and the other member who will design the outfit.\n"
+            },
+            {
+              "rules": [],
+              "type": " 2.\tParticipating teams are needed to make a dress from the logistics provided to them on the spot. Newspapers, A4 sheets, Ribbons, scissor, stapler, pins, and cello tape Will be given to each team. NO additional logistics apart from the ones provided, can be used.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3.\tTime limit for the event is 3 hours.\n"
+            },
+            {
+              "rules": [],
+              "type": " 4.\tEach team Will have to give a presentation before the judges after the dress designing is over.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5.\tAny potentially vulgar designing of the dress will lead to disqualification.\n"
+            },
+            {
+              "rules": [],
+              "type": " 6.\tUse Of any outside aids and internet is strictly prohibited and may lead to disqualification\n"
+            }
+          ],
+          "min_participation": 2,
+          "max_participation": 2,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 71,
+          "event": "Stash N Show",
+          "tagline": "Online Modeling Competition ",
+          "writeup": "An online modeling competition to attract the very engaging \nfashion seeking audience on social media. Who doesn’t love to \nboast his/her pictures on Instagram or Facebook and win prizes with\nit? A high-demand event for the youth and followed by many. These \nkind of events are very captivating, very attractive and engross a huge \namount of audience. Fashion and Instagram are going hand-in-hand, aren’t they?",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": " 1. This is a solo online competition only. \n"
+            },
+            {
+              "rules": [],
+              "type": " 2. Participants have to upload at least 5 photos of themselves.\n"
+            },
+            {
+              "rules": [],
+              "type": " 3. Participants should send their portfolio to fashion.sf2023@gmail.com. The subject of the mail should be “Stash N Show – (Your Name) – (SF ID)”. \n(a)Participants need to send an introduction video which will include his/her Name, College Name, SF ID. \n"
+            },
+            {
+              "rules": [],
+              "type": " 4. The portfolio has to be uploaded on Instagram in a single post from the public account of the participant. Entries from any private account won’t be accepted.\n"
+            },
+            {
+              "rules": [],
+              "type": " 5. Participants are supposed to tag @iitkgp.springfest in the caption of this portfolio post of Instagram. \n"
+            },
+            {
+              "rules": [],
+              "type": " 6. Participants are supposed to use the hashtags #sf2k23, #springfest, and #stashnshow in the caption of this portfolio post on Instagram. \n"
+            },
+            {
+              "rules": [],
+              "type": " 7. Photos should have at least 3 photos among the following 5 shots to form a complete portfolio: Full-length body shot, Editorial fashion shot, Strong Closing Shot, Smiling Shot, Beauty Shot, or Clean Head Shot. \n"
+            },
+            {
+              "rules": [],
+              "type": " 8. Judging Criteria: Personality, Style, Confidence, Attention details with accessories and costume, Overall Impact.\n\n"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        }
+      ]
+    },
+    {
+      "category": "Game Fest",
+      "events": [
+        {
+          "id": 101,
+          "event": "Accommodation",
+          "tagline": "Acco",
+          "writeup": "Acco",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "Acco"
+            },
+            {
+              "rules": [],
+              "type": "Rules"
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 12,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        },
+        {
+          "id": 100,
+          "event": "Labyrinth",
+          "tagline": "Labyrinth",
+          "writeup": "Labyrinth",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "Labyrinth"
+            },
+            {
+              "rules": [],
+              "type": "Rules"
+            }
+          ],
+          "min_participation": 2,
+          "max_participation": 5,
+          "is_group": 1,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        }
+      ]
+    },
+    {
+      "category": "Humor Fest",
+      "events": [
+        {
+          "id": 81,
+          "event": "Hilarity Ensues",
+          "tagline": "Stand Up Comedy",
+          "writeup": "Since time immemorial, certain individuals have strived upon making their peers smile, chuckle, giggle and laugh. Spring fest 2023 strives to celebrate all that is worth spreading joy in our world, and in the same spirit, we bring to you a spectacular event in the search for the next big name in Indian comedy.",
+          "rules": [
+            {
+              "rules": [],
+              "type": ""
+            },
+            {
+              "rules": [],
+              "type": "1.This is an individual event.\n"
+            },
+            {
+              "rules": [],
+              "type": "2.The event will be conducted in two round prelims and finals.\n"
+            },
+            {
+              "rules": [],
+              "type": "3.Shortlisted participants will qualify for finals.\n"
+            },
+            {
+              "rules": [],
+              "type": "4.For the final round, each participant will be provided a maximum of 5 minutes to perform.\n"
+            },
+            {
+              "rules": [],
+              "type": "5.Participants need to perform in Hindi or English or both.\n"
+            },
+            {
+              "rules": [],
+              "type": "6.Judging criterion will be mainly based on the script, engagement with the \naudience and presentation."
+            }
+          ],
+          "min_participation": 1,
+          "max_participation": 1,
+          "is_group": 0,
+          "event_status": 1,
+          "latitude": "22 N",
+          "longitude": "66 E",
+          "zoom": 4
+        }
+      ]
+    }
+  ],
+  "status_code": 200
+}

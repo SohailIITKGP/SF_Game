@@ -1,0 +1,226 @@
+.sidebar * {
+  transition: all 0.2s ease-in-out;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+
+  width: 200px;
+  height: 100vh;
+  padding: 1rem 0.5rem;
+
+  border-top-left-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+
+  background: rgba(0, 0, 0, 0.527);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+
+  z-index: 49;
+  transition: all 0.5s ease-in-out;
+
+  .sidebar-heading {
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-align: center;
+    color: whitesmoke;
+  }
+
+  .burgerContainer {
+    content: "";
+    position: absolute;
+    background-color: white;
+    left: (-40px / 2);
+    top: 3rem;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    z-index: 50;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .burgerMenu {
+      content: "";
+      background-color: transparent;
+      position: relative;
+      width: 25px;
+      height: 3px;
+      border-radius: 2rem;
+      transition: 0.4s all ease-in-out;
+    }
+
+    .burgerMenu::after {
+      content: "";
+      background-color: #b41c92;
+      position: absolute;
+      width: 25px;
+      height: 3px;
+      border-radius: 2rem;
+      top: 0.4rem;
+      transform: translateY(-0.4rem) rotate(45deg);
+      transition: 0.4s all ease-in-out;
+    }
+
+    .burgerMenu::before {
+      content: "";
+      background-color: #b41c92;
+      position: absolute;
+      width: 25px;
+      height: 3px;
+      border-radius: 2rem;
+      top: -0.4rem;
+      transform: translateY(0.4rem) rotate(-45deg);
+      transition: 0.4s all ease-in-out;
+    }
+  }
+
+  .contentsContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    padding-top: 3rem;
+
+    a.sidenav-contingent-button {
+      background-color: #549FC5;
+    }
+
+    a.sidenav-contingent-button img {
+      // filter: invert(1);
+      scale: 1.2;
+    }
+
+    a {
+      text-decoration: none;
+      width: 100%;
+      padding: 0.5rem 0.5rem;
+      margin: 0.5rem auto;
+
+      color: rgb(37, 37, 37);
+      font-size: 1.1rem;
+
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+
+      border-radius: 10px;
+      background-color: white;
+
+      transition: all 0.2s ease-in-out;
+      position: relative;
+
+      .acco_icon {
+        display: grid;
+        place-items: center;
+        width: 20px;
+        height: 20px;
+      }
+      .acco_icon img {
+        height: 100%;
+        width: 100%;
+      }
+
+      .acco_icon_FAQ img {
+        filter: invert(1);
+      }
+
+      .head {
+        padding-left: 10px;
+        font-weight: 500;
+        font-size: 1rem;
+      }
+
+      .tooltip {
+        position: absolute;
+        right: 0px;
+        top: 0;
+        transform: translate(-50%, -50%);
+        border-radius: 6px;
+        height: 35px;
+        width: 122px;
+        background: #fff;
+        line-height: 35px;
+        text-align: center;
+        box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+        transition: 0s;
+        opacity: 0;
+        pointer-events: none;
+        display: none;
+        font-size: 1rem;
+      }
+    }
+
+    a:hover .tooltip {
+      animation: fadeHover 2s both;
+    }
+  }
+}
+
+.sidebar.closed {
+  width: 55px;
+
+  .sidebar-heading {
+    display: none;
+  }
+
+  .burgerContainer {
+    .burgerMenu {
+      background-color: #b41c92;
+    }
+
+    .burgerMenu::before {
+      transform: translateY(0rem) rotate(0deg);
+    }
+
+    .burgerMenu::after {
+      transform: translateY(0rem) rotate(0deg);
+    }
+  }
+
+  .contentsContainer {
+    padding-top: 5rem;
+
+    a {
+      padding: 0.5rem;
+      width: auto;
+      border-radius: 50%;
+      justify-content: center;
+      font-size: 1.2rem;
+
+      .head {
+        display: none;
+      }
+
+      .tooltip {
+        display: block;
+      }
+    }
+  }
+}
+
+@keyframes fadeHover {
+  0% {
+    top: 0;
+    opacity: 0;
+  }
+
+  20% {
+    opacity: 1;
+    top: 50%;
+  }
+
+  80% {
+    opacity: 1;
+    top: 50%;
+  }
+
+  100% {
+    top: 0;
+    opacity: 0;
+  }
+}

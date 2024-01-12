@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32747b71.css",
+    "main.js": "/static/js/main.a585426d.js",
+    "static/media/Accommodation-bg.png": "/static/media/Accommodation-bg.5c5d03ff86a35146c420.png",
+    "static/media/Landing.png": "/static/media/Landing.bac0eba3f5e1306925e6.png",
+    "static/media/SubEvents.jpg": "/static/media/SubEvents.72e33dd273674185e9cf.jpg",
+    "static/media/dog.jpg": "/static/media/dog.3bbb5e6f8bd65d4c6cbe.jpg",
+    "static/media/landingpage_img2.jpeg": "/static/media/landingpage_img2.f3e93c9df56c7a27ed28.jpeg",
+    "static/media/landingpage_img1.jpeg": "/static/media/landingpage_img1.ef1d54ef44dec34d99df.jpeg",
+    "static/media/Music.png": "/static/media/Music.c91b700a4c5acdc4bb1c.png",
+    "static/media/game_background.png": "/static/media/game_background.8ee7b978a0d6f2578e65.png",
+    "static/media/HumourFest.png": "/static/media/HumourFest.5fa51a02f088f0ed9c1f.png",
+    "static/media/Dance.png": "/static/media/Dance.05190f49712746c776b2.png",
+    "static/media/FoodFest.png": "/static/media/FoodFest.5c3c946ebac4ee5c475d.png",
+    "static/media/FineArts.png": "/static/media/FineArts.6b8125d2615ce4bed692.png",
+    "static/media/iit-kgp-logo.png": "/static/media/iit-kgp-logo.d22fc195ade8a030bd91.png",
+    "static/media/sf-logo.png": "/static/media/sf-logo.44eef8d94a301997106e.png",
+    "static/media/Fashion.png": "/static/media/Fashion.2b3060fc31ebc2867069.png",
+    "static/media/FilmFest.png": "/static/media/FilmFest.0aa5ff627365b4ef7d2f.png",
+    "static/media/gemstone.ttf": "/static/media/gemstone.8d6206d6bb64e1734542.ttf",
+    "static/media/Sponsors.png": "/static/media/Sponsors.6e2bf17004b705926859.png",
+    "static/media/Literary.png": "/static/media/Literary.ee3a4fdc591b333cb436.png",
+    "static/media/AboutUs.png": "/static/media/AboutUs.3c464b213064d6180369.png",
+    "static/media/FAQ.png": "/static/media/FAQ.fe4d351f108430025ac0.png",
+    "static/media/AfterMovie.png": "/static/media/AfterMovie.8d606a829cd817915d93.png",
+    "static/media/Game.png": "/static/media/Game.7e583832110028f09438.png",
+    "static/media/OurTeam.png": "/static/media/OurTeam.74115bacc36c7c496f1a.png",
+    "static/media/Drama.png": "/static/media/Drama.6fbebe13b5a463eababb.png",
+    "static/media/Rules.png": "/static/media/Rules.b589540fd31c83ab7c76.png",
+    "index.html": "/index.html",
+    "main.32747b71.css.map": "/static/css/main.32747b71.css.map",
+    "main.a585426d.js.map": "/static/js/main.a585426d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32747b71.css",
+    "static/js/main.a585426d.js"
+  ]
+}

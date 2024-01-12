@@ -1,0 +1,98 @@
+.events {
+    width: 100vw;
+    /* height: calc(100vh - var(--navbar-height)); */
+    height: 100vh;
+    background-image: url("../temp-imgs/landingpage_img2.webp");
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: auto;
+}
+
+.events-heading {
+    color: white;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.events-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding: 2rem 0 6rem 0;
+}
+
+.events-card::before {
+    content: "";
+    position: absolute;
+    top: var(--pin-width);
+    left: calc(50% - var(--pin-width) / 2);
+    width: var(--pin-width);
+    height: var(--pin-width);
+    border-radius: 50%;
+    background-color: var(--pin-color);
+    box-shadow: 2px 2px 9px 0px rgba(0, 0, 0, 0.4), inset -6px -6px 5px 0px rgba(0, 0, 0, 0.2);
+}
+
+.events-card {
+    --pin-width: 0.7rem;
+    --pin-color: #000;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    width: 35vw;
+    max-width: 24rem;
+    height: 25vh;
+    border-radius: 1rem;
+    
+    background: rgba(255, 63, 220, 0.35);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(8.5px);
+    -webkit-backdrop-filter: blur(8.5px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+
+    color: #000;
+    text-decoration: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.6s ease-in-out;
+
+    transform-origin: center top;
+    transform: rotate(3deg);
+    animation: dangle 3s ease-in-out forwards infinite;
+}
+
+.event-img {
+    margin-top: 1rem;
+    height: 50%;
+}
+
+/* Manual Adjustments due to wrong aspect ratio by D-Team */
+.events-card:nth-child(2) .event-img {
+    height: 40%;
+}
+.events-card:nth-child(9) .event-img {
+    height: 60%;
+}
+.events-card:nth-child(10) .event-img {
+    height: 40%;
+}
+
+@keyframes dangle {
+    0% {
+        transform: rotate(3deg);
+    }
+
+    50% {
+        transform: rotate(-3deg);
+    }
+
+    100% {
+        transform: rotate(3deg);
+    }
+}

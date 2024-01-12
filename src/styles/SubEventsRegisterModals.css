@@ -1,0 +1,114 @@
+.sub-event-register-modal-overlay {
+    width: 100vw;
+    height: calc(100vh);
+    background: transparent;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -52%);
+    z-index: 1;
+}
+
+.sub-event-register-modal {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--modal-background-color);
+    /* background-color: #000000; */
+    backdrop-filter: blur(5px);
+
+    overflow: scroll;
+    border-radius: 10px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -52%);
+    width: 90vw;
+    height: fit-content;
+    max-height: 75vh;
+    z-index: 2;
+
+	font-family: sans-serif;
+}
+
+.sub-event-register-modal-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.5rem;
+    text-align: justify;
+    padding: 1rem 1.5rem;
+    margin: 1rem 0;
+}
+
+.sub-event-register-modal-content h1 {
+    margin-top: 0.5rem;
+    text-align: center;
+}
+
+.sub-event-register-modal-image  {
+    display: flex;
+    justify-content: center;
+}
+
+.sub-event-register-modal-image img {
+    height: 8rem;
+}
+
+.sub-event-register-modal-note {
+    padding: 0.5rem;
+}
+
+.sub-event-register-modal-content .choose-number-of-participants {
+    width: 4rem;
+    height: 2rem;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    background-color: black;
+    color: white;
+    border: none;
+    outline: none;
+    padding: 0 0.5rem;
+    margin: auto;
+}
+
+.sub-event-register-modal-inputs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.sub-event-register-modal-input {
+    display: flex;
+    gap: 1rem;
+    height: 3rem;
+}
+
+.sub-event-register-modal-input-label {
+    display: flex;
+    align-items: center;
+}
+
+.sub-event-register-modal-input input {
+    border-radius: 5px;
+    background-color: var(--modal-background-color);
+    color: white;
+    border: none;
+    outline: none;
+    padding-left: 0.5rem;
+}
+
+.sub-event-modal-register-button {
+    background-color: #58293f; 
+    padding: 0.5rem 1rem;
+    margin: 0.7rem;
+    border-radius: 3px;
+    font-size: 1.2rem;
+    outline: none;
+    border: none;
+    color: white;
+}

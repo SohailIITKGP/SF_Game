@@ -1,0 +1,178 @@
+.merch-container {
+  height: calc(100vh - var(--navbar-height));
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  text-align: center;
+  overflow: hidden;
+  background-color: #1d0014;
+  background-image: none;
+  justify-content: space-evenly;
+  align-items: center;
+  background: url("../temp-imgs/desktopmerch2.png");
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.merch-content-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1.4rem;
+  height: 70%;
+  padding: 1rem auto;
+  align-items: center;
+  width: 100vw;
+}
+
+.merch-container h1 {
+  /* padding: 1.5rem 0.3rem; */
+  padding-top: 1.7rem;
+  /* color: white; */
+  z-index: 4;
+}
+
+.merch-swipe-container {
+  height: 40%;
+  width: 100vw;
+  align-items: center;
+  display: flex;
+  z-index: 60;
+  padding: 0 10%;
+}
+
+.merch-swiper {
+  width: 60%;
+  height: 80%;
+  filter: drop-shadow(2px 3px 5px black);
+}
+
+.merch-swiper img {
+  height: 100%;
+  border-radius: 10px;
+}
+
+.swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.merch-leftarrow,
+.merch-rightarrow {
+  height: 2rem;
+  width: 2rem;
+  filter: invert(1);
+  cursor: pointer;
+}
+
+.merch-leftarrow {
+  transform: rotate(180deg);
+}
+
+.container_4 {
+  display: flex;
+  justify-content: space-around;
+  z-index: 60;
+  height: 5rem;
+  width: 80vw;
+  margin-top: 1.5rem;
+}
+
+.container_4 div {
+  height: 100%;
+  width: 30vw;
+  max-width: 7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  border-radius: 15px;
+}
+
+.container_4 img {
+  height: 100%;
+}
+
+.container_4 .Sub-active {
+  border: 2px solid #F8E4C7;
+  transform: scale(1.2);
+  filter: drop-shadow(0 0 5px #F8E4C7);
+}
+
+.container_4 .Sub-nonactive {
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  opacity: 0.5;
+}
+
+.RegisterNow {
+  height: 10%;
+}
+
+.RegisterNow button {
+  outline: none;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  padding: 0.5rem 1rem;
+  border: 3px solid #f9f4f4;
+  background-color: rgba(35, 7, 7, 0.58);
+  color: white;
+  filter: drop-shadow(0px 0px 10px #ff00e5);
+  box-shadow: inset 0px 4px 15px 4px #ff00e5;
+  font-family: gemstone, sans-serif;
+  width: auto;
+}
+
+.RegisterNow button:hover {
+  background-color: rgba(0, 255, 7, 0.58);
+  filter: none;
+  box-shadow: none;
+}
+
+@media only screen and (min-width: 580px) {
+  .container_4 {
+    height: 6rem;
+    width: 50vw;
+    margin-top: 0;
+  }
+
+  .container_4 .Sub-active {
+    transform: scale(1.1);
+  }
+
+  .container_4 div {
+    max-width: 7rem;
+    border-radius: 15px;
+  }
+}
+
+@media only screen and (min-width: 786px) {
+  .merch-swipe-container {
+    width: 70vw;
+  }
+
+  .merch-swiper {
+    height: 100%;
+  }
+
+  .container_4 div {
+    max-width: 10rem;
+    border-radius: 15px;
+  }
+}
+
+@media only screen and (min-width: 1300px) {
+  .merch-container h1 {
+    padding-top: calc(1.7rem + 1.3vw);
+  }
+} 
