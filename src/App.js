@@ -10,6 +10,7 @@ import Dashboard from "./Pages/Dashboard";
 import Navbar from "./components/Navbar";
 import Game from "./components/Game/Game.tsx";
 import GamePage from "./Pages/GamePage.jsx";
+import Schedule from "./Pages/Schedule.jsx"
 import TrafficRunner from "./Pages/TrafficRunner.jsx";
 
 import { Routes, Route } from "react-router-dom";
@@ -41,6 +42,7 @@ export default function App() {
 				/>
 				<Route path="/tilesladder" element={<Game />} />
 				<Route path="/gamepage" element={<GamePage />} />
+				<Route path="/schedule" element={<Schedule />} />
 				<Route path="/trafficrunner" element={<TrafficRunner />} />
 				<Route path="/faq" element={<FAQBeta />} />
 

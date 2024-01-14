@@ -6,7 +6,7 @@ import { useEffect, useState } from 'react';
 export default function GamePage () {
     const [uscoredata,setUscoredata]=useState();
     const [scoredata,setscoredata]=useState();
-    const [maxscore,setMaxscore]=useState();
+    const [maxscore,setMaxscore]=useState(0);
     const [suthtoken,setSuthtoken]=useState();
     const [sfID,setSfID]=useState();
     const findMaxValue = (arr) => Math.max(...arr);
